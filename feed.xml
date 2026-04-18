@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>製品環境法規制週報</title>
+    <link>https://makionakatsu.github.io/env-reg-report-public/feed.xml</link>
+    <description>EU/US/JP/CN/KR/IN の製品環境法規制を毎週、メーカー視点で読み解く</description>
+    <atom:link href="https://makionakatsu.github.io/env-reg-report-public/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 18 Apr 2026 07:17:13 +0000</lastBuildDate>
+    <item>
+      <title>製品環境法規制週報 2026-3-30〜4-5_W14</title>
+      <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W14.html</link>
+      <description><![CDATA[<h2>製品環境法規制週報 2026-3-30〜4-5_W14</h2>
+<h3>欧州連合の化学物質規制関連官報公布案件（文書番号 2026/750）</h3>
+<p>・ <strong>対象地域</strong>: 欧州連合
+・ <strong>段階</strong>: 官報公布
+・ <strong>何が変わるか</strong>: 欧州連合で化学物質規制に関する官報公布の更新です。
+・ <strong>いつから関係するか</strong>: 本文で確認できた変更日は2026-03-31で、関連日は2026-04-21です。
+・ <strong>実務で見る点</strong>: 要件影響確認を進める前提で、自社への該当有無を確認してください。
+・ <strong>概要</strong>: 欧州連合の官報公布案件です。公表日は2026-03-31です。直近の関連日は2026-04-21です。
+・ <strong>情報源</strong>: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600750">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600750</a></p>
+<h3>欧州連合の包装・拡大生産者責任関連官報公布案件（文書番号 2026/749）</h3>
+<p>・ <strong>対象地域</strong>: 欧州連合
+・ <strong>段階</strong>: 官報公布
+・ <strong>何が変わるか</strong>: 欧州連合で包装・拡大生産者責任に関する官報公布の更新です。
+・ <strong>いつから関係するか</strong>: 本文で確認できた変更日は2026-03-31です。
+・ <strong>実務で見る点</strong>: 要件影響確認を進める前提で、自社への該当有無を確認してください。
+・ <strong>概要</strong>: 欧州連合の官報公布案件です。公表日は2026-03-31です。
+・ <strong>情報源</strong>: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600749">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600749</a></p>
+<h2>添付資料</h2>
+<p>・ 今週の実務アクション集（PDF）は本文末尾の添付ファイルを参照してください。
+・ <strong>添付ファイル</strong>: reader_action_brief_2026-W14.pdf
+・ <strong>本文掲載</strong>: 2件
+・ <strong>未掲載</strong>: 12件</p>]]></description>
+      <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W14.html</guid>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W14/reader_action_brief_2026-W14.pdf" length="18476" type="application/pdf"/>
+      <pubDate>Sun, 29 Mar 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>製品環境法規制週報 2026-4-6〜4-12_W15</title>
+      <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W15.html</link>
+      <description>今週は注視対象2件で、管轄は米国2件です。 PFASを含む広範な化学物質への規制強化の可能性が示唆される週の1件です。</description>
+      <content:encoded><![CDATA[<h2>製品環境法規制週報 2026-4-6〜4-12_W15</h2>
+<h2>今週の読み筋</h2>
+<p>今週は注視対象2件で、管轄は米国2件です。
+PFASを含む広範な化学物質への規制強化の可能性が示唆される週の1件です。</p>
+<h3>注視対象｜米EPA、飲用水規制対象候補リスト第6版草案を発表</h3>
+<blockquote>
+<p>米EPAは将来の飲料水規制候補リスト草案を発表しました。PFASを含むため、該当物質を製品に含む企業は中長期的な政策動向を注視してください。</p>
+</blockquote>
+<p>・ <strong>対象地域・段階</strong>: 米国 / 提案 / 政策シグナル
+・ <strong>対象製品</strong>: 電子機器部品、表面処理剤
+・ <strong>今見る理由</strong>: PFASは主要化学物質グループとしてリストアップされており、将来の規制動向を早期に把握し、サプライチェーン影響評価や代替検討に備えるためです。
+・ <strong>今週やること</strong>: 社内でのPFAS使用箇所を棚卸しする / PFAS関連の顧客要求状況を確認する
+・ <strong>関連日付</strong>: 2026-04-06 公開 / パブリックコメントの締切日を確認する
+・ <strong>原文</strong>: <a href="https://www.federalregister.gov/documents/2026/04/06/2026-06662/drinking-water-contaminant-candidate-list-6-draft">Federal Register EPA search（2026-04-06）</a></p>
+<h3>注視対象｜米国EPA、TSCA関連CBIアクセス権を請負業者に付与</h3>
+<blockquote>
+<p>今回の主点は製品含有規制の変更ではなく、TSCA提出情報やCBI claimに関わる情報アクセス管理です。該当するのはTSCA提出・CBI claimを持つ企業に限られます。</p>
+</blockquote>
+<p>・ <strong>対象地域・段階</strong>: 米国 / ガイダンス / 情報管理
+・ <strong>対象製品</strong>: 電気電子機器本体、基板・モジュール・半導体搭載品
+・ <strong>今見る理由</strong>: 2026-04-06 を起点に、使用化学品や添加剤の登録・届出、SDS、供給者回答が今の運用で足りるかをメーカー側で確認する必要があるためです。
+・ <strong>今週やること</strong>: TSCA提出情報、CBI claim、EPA提出窓口の有無を法務・情報管理・環境規制担… / 今回通知のアクセス対象、請負業者、対象TSCAセクションを原文で照合してください。
+・ <strong>関連日付</strong>: 変更日: 2026-04-06
+・ <strong>原文</strong>: <a href="https://www.federalregister.gov/documents/2026/04/06/2026-06586/access-to-confidential-business-information-deaf-access-solutions-inc">Federal Register EPA search（2026-04-06）</a></p>
+<h2>添付資料（PDF: 実務アクション集）</h2>
+<p>本週号のPDFには、2件それぞれの1ページメモを収録しています。本文には載せきれなかった以下を含みます。</p>
+<p>・ 対象製品ごとの「見る部材・包装・証明書・初問」テーブル（0件）
+・ 該当 / 非該当条件の切り分けと、断定しない根拠（全2件）
+・ 今週やること × 担当候補（サプライチェーン管理部門、化学物質管理、情報管理）
+・ 変わったこと / 変わっていないことの整理と過剰反応の防止策</p>
+<p>・ <strong>添付ファイル</strong>: reader_action_brief_2026-W15.pdf（2件 / 3ページ想定）
+・ <strong>本文掲載</strong>: 2件
+・ <strong>未掲載</strong>: 14件</p>
+<h2>未掲載の検知一覧（14件）</h2>
+<p>本文とPDFには載せませんでしたが、一次情報としては検知済みの案件です。スコアの高い順(本文掲載の境界に近い順)に並べています。タイトルは原文から取っています。</p>
+<p>・ <strong>[スコア0 / 米国 / ガイダンス]</strong> Polyethylhexyl Glycidyl Ether Polyethylene Oxide Copolymer in Pesticide Formula… <a href="https://www.federalregister.gov/documents/2026/04/10/2026-06953/polyethylhexyl-glycidyl-ether-polyethylene-oxide-copolymer-in-pesticide-formulations-exemption-from">Federal Register EPA search（2026-04-10）</a>
+・ <strong>[スコア0 / 米国 / ガイダンス]</strong> Deaf Access Solutions, Inc.; Access to Confidential Business Information <a href="https://www.federalregister.gov/documents/2026/04/06/2026-06585/deaf-access-solutions-inc-access-to-confidential-business-information">Federal Register EPA search（2026-04-06）</a>
+・ <strong>[スコア0 / 米国 / 提案]</strong> Air Plan Approval; Ohio; Redesignation of the Cleveland, OH Area to Attainment… <a href="https://www.federalregister.gov/documents/2026/04/10/2026-06943/air-plan-approval-ohio-redesignation-of-the-cleveland-oh-area-to-attainment-of-the-2015-ozone">Federal Register EPA search（2026-04-10）</a>
+・ <strong>[スコア0 / 米国 / ガイダンス]</strong> Environmental Impact Statements; Notice of Availability <a href="https://www.federalregister.gov/documents/2026/04/10/2026-06965/environmental-impact-statements-notice-of-availability">Federal Register EPA search（2026-04-10）</a>
+・ <strong>[スコア0 / 米国 / ガイダンス]</strong> Clean Air Act Operating Permit Program; Order on Petition for Objection to Stat… <a href="https://www.federalregister.gov/documents/2026/04/10/2026-06910/clean-air-act-operating-permit-program-order-on-petition-for-objection-to-state-operating-permits">Federal Register EPA search（2026-04-10）</a>
+・ <strong>[スコア0 / 米国 / 提案]</strong> Air Plan Approval; New York; Interstate Transport Requirements for the 2010 SO2… <a href="https://www.federalregister.gov/documents/2026/04/10/2026-06938/air-plan-approval-new-york-interstate-transport-requirements-for-the-2010-so2-naaqs">Federal Register EPA search（2026-04-10）</a>
+・ <strong>[スコア0 / 米国 / 提案]</strong> Air Plan Approval; Michigan; Redesignation and Maintenance Plan for the Partial… <a href="https://www.federalregister.gov/documents/2026/04/10/2026-06941/air-plan-approval-michigan-redesignation-and-maintenance-plan-for-the-partial-st-clair-2010-1-hour">Federal Register EPA search（2026-04-10）</a>
+・ <strong>[スコア0 / 米国 / ガイダンス]</strong> Determination of Attainment by the Attainment Date But for International Emissi… <a href="https://www.federalregister.gov/documents/2026/04/06/C1-2026-05601/determination-of-attainment-by-the-attainment-date-but-for-international-emissions-for-the-2015">Federal Register EPA search（2026-04-06）</a>
+・ <strong>[スコア0 / 米国 / ガイダンス]</strong> Proposed Information Collection Request; Comment Request; Establishing No-Disch… <a href="https://www.federalregister.gov/documents/2026/04/06/2026-06588/proposed-information-collection-request-comment-request-establishing-no-discharge-zones-ndzs-under">Federal Register EPA search（2026-04-06）</a>
+・ <strong>[スコア0 / 米国 / 提案]</strong> Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant… <a href="https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives">Federal Register EPA search（2026-04-06）</a>
+・ <strong>[スコア0 / 米国 / ガイダンス]</strong> Hexanedioic acid, polymer with sodium 2-[(2-aminoethyl)amino]ethanesulfonate (1… <a href="https://www.federalregister.gov/documents/2026/04/10/2026-06954/hexanedioic-acid-polymer-with-sodium-2-2-aminoethylaminoethanesulfonate-11-16-diisocyanatohexane">Federal Register EPA search（2026-04-10）</a>
+・ <strong>[スコア0 / 米国 / 提案]</strong> Air Plan Approval and Air Quality Designation; Ohio; Attainment Plan and Redesi… <a href="https://www.federalregister.gov/documents/2026/04/10/2026-06937/air-plan-approval-and-air-quality-designation-ohio-attainment-plan-and-redesignation-of-the-canton">Federal Register EPA search（2026-04-10）</a>
+・ <strong>[スコア0 / 米国 / 提案]</strong> Air Plan Approvals; Indiana; Prong 4 (Visibility) for the 2015 Ozone National A… <a href="https://www.federalregister.gov/documents/2026/04/10/2026-06942/air-plan-approvals-indiana-prong-4-visibility-for-the-2015-ozone-national-ambient-air-quality">Federal Register EPA search（2026-04-10）</a>
+・ <strong>[スコア0 / 米国 / 提案]</strong> Air Plan Approval; Ohio; Source-Specific Non-CTG RACT for Ohio <a href="https://www.federalregister.gov/documents/2026/04/10/2026-06940/air-plan-approval-ohio-source-specific-non-ctg-ract-for-ohio">Federal Register EPA search（2026-04-10）</a></p>]]></content:encoded>
+      <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W15.html</guid>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W15/reader_action_brief_2026-W15.pdf" length="1050329" type="application/pdf"/>
+      <pubDate>Sun, 05 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>製品環境法規制週報 2026-4-13〜4-19_W16</title>
+      <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W16.html</link>
+      <description>今週は注視対象1件で、管轄は米国1件です。 米国におけるPFAS規制強化の動きが継続する中、Superfundサイトでの具体的な除去措置に関する行政和解案が提示された重要な一件です。</description>
+      <content:encoded><![CDATA[<h2>製品環境法規制週報 2026-4-13〜4-19_W16</h2>
+<h2>今週の読み筋</h2>
+<p>今週は注視対象1件で、管轄は米国1件です。
+米国におけるPFAS規制強化の動きが継続する中、Superfundサイトでの具体的な除去措置に関する行政和解案が提示された重要な一件です。</p>
+<h3>注視対象｜ツーソン空港周辺サイトでのPFAS除去に関するCERCLA和解案を提示</h3>
+<blockquote>
+<p>米国アリゾナ州のPFAS汚染除去に関する和解案が公表されました。これは直接の製品規制ではありませんが、PFASに関する政策動向として注視が必要です。</p>
+</blockquote>
+<p>・ <strong>対象地域・段階</strong>: 米国 / ガイダンス / 政策シグナル
+・ <strong>対象製品</strong>: 電気電子機器全般、医療機器
+・ <strong>今見る理由</strong>: 今週この和解案が公表され、意見募集が開始されたため、今後のPFAS規制動向とサプライチェーンへの影響を早期に評価する必要があります。
+・ <strong>今週やること</strong>: 社内PFAS使用実態の確認を開始します。 / PFAS関連の顧客要求動向を監視します。
+・ <strong>関連日付</strong>: 2026-04-16 公開日 / 意見募集期間の終了日を確認が必要です。
+・ <strong>原文</strong>: <a href="https://www.federalregister.gov/documents/2026/04/16/2026-07402/tucson-international-airport-area-site-tucson-az-notice-of-proposed-cercla-settlement-agreement-for">Federal Register EPA search（2026-04-16）</a></p>
+<h2>未掲載の検知一覧（9件）</h2>
+<p>本文とPDFには載せませんでしたが、一次情報としては検知済みの案件です。スコアの高い順(本文掲載の境界に近い順)に並べています。タイトルは原文から取っています。</p>
+<p>・ Air Plan Revisions; Arizona; Maricopa County Air Quality Department; New Source… [スコア0 / 米国 / 提案]
+<a href="https://www.federalregister.gov/documents/2026/04/16/2026-07405/air-plan-revisions-arizona-maricopa-county-air-quality-department-new-source-review-emission">Federal Register EPA search（2026-04-16）</a></p>
+<p>・ Air Plan Approval; California; Eastern Kern Air Pollution Control District; Por… [スコア0 / 米国 / ガイダンス]
+<a href="https://www.federalregister.gov/documents/2026/04/16/2026-07398/air-plan-approval-california-eastern-kern-air-pollution-control-district-portland-cement-kilns">Federal Register EPA search（2026-04-16）</a></p>
+<p>・ Methoxyfenozide; Pesticide Tolerances [スコア0 / 米国 / ガイダンス]
+<a href="https://www.federalregister.gov/documents/2026/04/17/2026-07560/methoxyfenozide-pesticide-tolerances">Federal Register EPA search（2026-04-17）</a></p>
+<p>・ Air Plan Approval; Virginia; Amendment to the State Operating Permit for GP Big… [スコア0 / 米国 / ガイダンス]
+<a href="https://www.federalregister.gov/documents/2026/04/17/2026-07527/air-plan-approval-virginia-amendment-to-the-state-operating-permit-for-gp-big-island-llc">Federal Register EPA search（2026-04-17）</a></p>
+<p>・ Air Plan Approval; Pennsylvania; Redesignation Request for the Allegheny County… [スコア0 / 米国 / ガイダンス]
+<a href="https://www.federalregister.gov/documents/2026/04/16/2026-07399/air-plan-approval-pennsylvania-redesignation-request-for-the-allegheny-county-area-for-the-2012">Federal Register EPA search（2026-04-16）</a></p>
+<p>・ National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired E… [スコア0 / 米国 / ガイダンス]
+<a href="https://www.federalregister.gov/documents/2026/04/16/2026-07396/national-emission-standards-for-hazardous-air-pollutants-coal--and-oil-fired-electric-utility-steam">Federal Register EPA search（2026-04-16）</a></p>
+<p>・ Air Plan Approval; Arizona; Interstate Transport Requirements for the 2012 Fine… [スコア0 / 米国 / ガイダンス]
+<a href="https://www.federalregister.gov/documents/2026/04/16/2026-07400/air-plan-approval-arizona-interstate-transport-requirements-for-the-2012-fine-particulate-matter">Federal Register EPA search（2026-04-16）</a></p>
+<p>・ Privacy Act of 1974; System of Records [スコア0 / 米国 / ガイダンス]
+<a href="https://www.federalregister.gov/documents/2026/04/16/2026-07406/privacy-act-of-1974-system-of-records">Federal Register EPA search（2026-04-16）</a></p>
+<p>・ Environmental Impact Statements; Notice of Availability [スコア0 / 米国 / ガイダンス]
+<a href="https://www.federalregister.gov/documents/2026/04/17/2026-07533/environmental-impact-statements-notice-of-availability">Federal Register EPA search（2026-04-17）</a></p>
+<h2>添付資料（PDF: 実務アクション集）</h2>
+<p>今週号のPDFには、1件それぞれの1ページメモを収録しています。本文には載せきれなかった以下を含みます。</p>
+<p>・ 対象製品ごとの「見る部材・包装・証明書・初問」テーブル（0件）
+・ 該当 / 非該当条件の切り分けと、断定しない根拠（全1件）
+・ 今週やること × 担当候補（サプライチェーン管理部、法務部、環境規制担当）
+・ 変わったこと / 変わっていないことの整理と過剰反応の防止策</p>
+<p>・ <strong>添付ファイル</strong>: reader_action_brief_2026-W16.pdf（1件 / 2ページ想定）
+・ <strong>本文掲載</strong>: 1件
+・ <strong>未掲載</strong>: 9件</p>]]></content:encoded>
+      <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W16.html</guid>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W16/reader_action_brief_2026-W16.pdf" length="794565" type="application/pdf"/>
+      <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
