@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Apr 2026 11:38:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 12:22:06 +0000</lastBuildDate>
     <item>
       <title>製品環境法規制週報 2026-3-30〜4-5_W14</title>
       <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W14.html</link>
@@ -18,27 +18,27 @@
 <h2>今週の読み筋</h2>
 <p>今週は要注目1件と注視対象1件で、管轄は欧州連合2件です。<br>
 直近では2026-04-21の関連期限が迫っており、今週中の判断が必要です。<br>
-殺生物性製品のEU市場投入には、個別製品だけでなく製品ファミリーとしての認可戦略が重要です。</p>
-<h3>要注目｜EU殺生物製品ECA Disinfect skinに新たなEU認可</h3>
+EUの殺生物製品規制（BPR）に基づく具体的な製品認可が、市場投入段階へと移行しつつあります。</p>
+<h3>要注目｜殺生物製品ファミリー「ECA Disinfect skin Product family 7」のEU認可公布</h3>
 <blockquote>
-<p>殺生物製品を直接製造・販売していない場合、直接的な影響は小さいです。ただし、サプライチェーンにおける当該製品の使用状況は確認が必要です。</p>
-</blockquote>
-<p>・ <strong>対象地域・段階</strong>: 欧州連合 / 官報公布 / 政策シグナル<br>
-・ <strong>対象製品</strong>: 医療機器（非医療用途を除く）、除菌・消毒機能を持つ機器<br>
-・ <strong>今見る理由</strong>: 本規則は2026年4月21日に発効するため、市場に流通する可能性のある関連製品やサプライチェーンへの影響を早期に評価するためです。<br>
-・ <strong>今週やること</strong>: 製品タイプ1および3の用途を確認する。 / サプライヤーに当該製品の使用有無を確認する。<br>
-・ <strong>関連日付</strong>: <strong>2026-04-21 発効</strong> / 今後のBPR関連動向に注意が必要です。<br>
-・ <strong>原文</strong>: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600750">EU Official Journal L-series daily view（2026-03-31）</a><br>
-・ ※ 抽出できた根拠が限定的なため、結論の断定前に原文確認が必要です。</p>
-<h3>注視対象｜EU殺生物性製品の認可内容に行政変更規則が公布</h3>
-<blockquote>
-<p>自社が「Evonik’s Hydrogen Peroxide Product Family」または関連殺生物性製品を使用している場合、認可情報の変更点を確認する必要があります。電気電子機器企業の場合、直接的な影響は低い…</p>
+<p>本件は殺生物製品のEU認可であり、電気電子機器の本体材料への直接影響は限定的です。ただし、製造工程や出荷包装で特定の消毒製品を使用する場合は関連部署での確認が必要です。</p>
 </blockquote>
 <p>・ <strong>対象地域・段階</strong>: 欧州連合 / 官報公布 / 情報管理<br>
-・ <strong>対象製品</strong>: 殺生物性製品、殺菌剤、消毒剤<br>
-・ <strong>今見る理由</strong>: 今回の規則は、特定の殺生物性製品の認可情報の行政変更を発効させるため、関連製品を扱う企業は自社登録情報との整合性を確認する時期です。<br>
-・ <strong>今週やること</strong>: 自社が当該製品を利用しているか確認する / 関連する登録情報の更新有無を調査する<br>
-・ <strong>関連日付</strong>: <strong>2026-04-21 発効</strong><br>
+・ <strong>対象製品</strong>: 非医療用途の手指消毒製品、衛生管理用途の殺生物製品<br>
+・ <strong>今見る理由</strong>: 殺生物製品の市場投入や使用に関する合法性を確保するため、この新しいEU認可の詳細を確認し、自社製品や工程への関連性を評価する必要があります。<br>
+・ <strong>今週やること</strong>: 関連部署へ本情報を共有する。 / 製造工程での消毒剤使用状況を確認する。<br>
+・ <strong>関連日付</strong>: <strong>2026-04-21 発効</strong> / 認可の10年間有効期間<br>
+・ <strong>原文</strong>: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600750">EU Official Journal L-series daily view（2026-03-31）</a><br>
+・ ※ 抽出できた根拠が限定的なため、結論の断定前に原文確認が必要です。</p>
+<h3>注視対象｜Evonik社殺生物性製品ファミリーのEU認可に行政変更</h3>
+<blockquote>
+<p>EUにおける殺生物性製品の特定ファミリー認可情報が更新されました。自社がEvonik社の過酸化水素製品をEU市場で取り扱っている場合、流通や表示内容を確認する必要があります。</p>
+</blockquote>
+<p>・ <strong>対象地域・段階</strong>: 欧州連合 / 官報公布 / 情報管理<br>
+・ <strong>対象製品</strong>: Evonik社製過酸化水素殺生物性製品、対象殺生物性製品を含む産業用化学品<br>
+・ <strong>今見る理由</strong>: 本規則が2026年4月21日に発効するため、自社がEvonik社製の対象殺生物性製品を取り扱う場合、流通・表示内容の確認が必須となります。<br>
+・ <strong>今週やること</strong>: 自社製品でのEvonik社過酸化水素製品の使用状況を確認する。 / 対象製品の流通、表示、関連文書に変更がないか確認する。<br>
+・ <strong>関連日付</strong>: 2026-04-01 官報公開 / <strong>2026-04-21 発効</strong><br>
 ・ <strong>原文</strong>: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600749">EU Official Journal L-series daily view（2026-03-31）</a></p>
 <h2>検知済み / 本文未掲載（12件）</h2>
 <p>本文掲載の基準には届かなかったものの、一次情報としては検知済みの案件です。判断の透明性のため、スコア順（本文掲載の境界に近い順）で一覧にしています。タイトルは原文のままです。</p>
@@ -82,13 +82,13 @@
 <p>今週号のPDFには、2件それぞれの1ページメモを収録しています。本文には載せきれなかった以下を含みます。</p>
 <p>・ 対象製品ごとの「見る部材・包装・証明書・初問」テーブル（0件）<br>
 ・ 該当 / 非該当の切り分けと、その判断根拠（全2件）<br>
-・ 今週やること と 想定される担当者（サプライヤー管理部門、法務部、法務部門）<br>
+・ 今週やること と 想定される担当者（品質保証部、法務部、環境法務担当）<br>
 ・ 「変わったこと」「今までどおり続ければよいこと」の切り分け</p>
 <p>・ <strong>添付ファイル</strong>: <a href="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W14/reader_action_brief_2026-W14.pdf">reader_action_brief_2026-W14.pdf</a>（2件 / 3ページ想定）<br>
 ・ <strong>本文掲載</strong>: 2件<br>
 ・ <strong>未掲載</strong>: 12件</p>]]></content:encoded>
       <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W14.html</guid>
-      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W14/reader_action_brief_2026-W14.pdf" length="965997" type="application/pdf"/>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W14/reader_action_brief_2026-W14.pdf" length="966402" type="application/pdf"/>
       <pubDate>Sun, 29 Mar 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -99,26 +99,26 @@
 <p><em>本文はそのまま note (<a href="https://note.com/kamakinoworks">@kamakinoworks</a>) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。</em></p>
 <h2>今週の読み筋</h2>
 <p>今週は注視対象2件で、管轄は米国2件です。<br>
-今回のCCL 6草案は、米国における将来的な化学物質規制動向の重要な先行指標となるため、注視が必要です。</p>
-<h3>注視対象｜米国EPA 飲料水汚染物質候補リスト草案発表</h3>
+米国のPFAS規制が飲料水分野でも具体的な検討段階に入り、今後の規制強化の兆候を示しています。</p>
+<h3>注視対象｜米国EPA、第6次飲料水汚染物質候補リスト草案を公開</h3>
 <blockquote>
-<p>CCLは直接製品規制ではありませんが、PFAS等の動向は中長期的なサプライチェーンに影響する可能性があります。特にPFAS使用企業は動向を注視ください。</p>
+<p>PFASを部材や表面処理に使う企業は、中長期的な顧客からの情報要求や代替検討に備えるべきです。このリストは直ちに製品への規制を課すものではありません。</p>
 </blockquote>
 <p>・ <strong>対象地域・段階</strong>: 米国 / 提案 / 政策シグナル<br>
-・ <strong>対象製品</strong>: 半導体製造装置部品、撥水加工電子機器<br>
-・ <strong>今見る理由</strong>: PFASが引き続き重要な規制候補物質群と位置づけられており、将来的な規制強化や顧客からの要求に対応するための初期情報収集として重要だからです。<br>
-・ <strong>今週やること</strong>: 社内のPFAS使用箇所を棚卸しする。 / サプライヤーへPFASに関する情報収集を検討する。<br>
-・ <strong>関連日付</strong>: 2026-04-06 公表済み / 意見募集期間の終了日を確認する。<br>
+・ <strong>対象製品</strong>: PFASを含む可能性のある部品、撥水・防汚加工を施した製品<br>
+・ <strong>今見る理由</strong>: PFASが将来の規制対象になる政策シグナルとして、サプライチェーンからの情報要求や代替検討の準備を始める必要があるためです。<br>
+・ <strong>今週やること</strong>: 自社製品のPFAS使用状況を確認する / サプライヤーへのPFAS含有調査を検討する<br>
+・ <strong>関連日付</strong>: 2026-04-06 公開 / パブリックコメント締切日の確認が必要です<br>
 ・ <strong>原文</strong>: <a href="https://www.federalregister.gov/documents/2026/04/06/2026-06662/drinking-water-contaminant-candidate-list-6-draft">Federal Register EPA search（2026-04-06）</a></p>
-<h3>注視対象｜EPAがTSCA関連企業秘密への請負業者アクセスを通知</h3>
+<h3>注視対象｜米国EPA、TSCA機密情報への業者アクセス開始</h3>
 <blockquote>
-<p>TSCAに基づきEPAに企業秘密情報（CBI）を提出したことがある企業は、情報管理体制の確認が必要です。製品の含有規制や禁止物質の変更ではありません。</p>
+<p>今回の主点は製品含有規制の変更ではなく、TSCA提出情報やCBI claimに関わる情報アクセス管理です。該当するのはTSCA提出・CBI claimを持つ企業に限られます。</p>
 </blockquote>
 <p>・ <strong>対象地域・段階</strong>: 米国 / ガイダンス / 情報管理<br>
-・ <strong>対象製品</strong>: TSCA関連書類、化学物質情報<br>
-・ <strong>今見る理由</strong>: EPAの請負業者によるTSCA提出情報へのアクセスが正式に通知されたため、自社が提出した機密情報の管理状況を速やかに見直す必要があります。<br>
-・ <strong>今週やること</strong>: TSCA提出情報の有無を確認する。 / CBI claim情報の範囲を再確認する。<br>
-・ <strong>関連日付</strong>: 2026-04-06 公表<br>
+・ <strong>対象製品</strong>: 電気電子機器本体、基板・モジュール・半導体搭載品<br>
+・ <strong>今見る理由</strong>: 2026-04-06 を起点に、使用化学品や添加剤の登録・届出、SDS、供給者回答が今の運用で足りるかをメーカー側で確認する必要があるためです。<br>
+・ <strong>今週やること</strong>: TSCA提出情報、CBI claim、EPA提出窓口の有無を法務・情報管理・環境規制担… / 今回通知のアクセス対象、請負業者、対象TSCAセクションを原文で照合してください。<br>
+・ <strong>関連日付</strong>: 変更日: 2026-04-06<br>
 ・ <strong>原文</strong>: <a href="https://www.federalregister.gov/documents/2026/04/06/2026-06586/access-to-confidential-business-information-deaf-access-solutions-inc">Federal Register EPA search（2026-04-06）</a></p>
 <h2>検知済み / 本文未掲載（14件）</h2>
 <p>本文掲載の基準には届かなかったものの、一次情報としては検知済みの案件です。判断の透明性のため、スコア順（本文掲載の境界に近い順）で一覧にしています。タイトルは原文のままです。</p>
@@ -166,13 +166,13 @@
 <p>今週号のPDFには、2件それぞれの1ページメモを収録しています。本文には載せきれなかった以下を含みます。</p>
 <p>・ 対象製品ごとの「見る部材・包装・証明書・初問」テーブル（0件）<br>
 ・ 該当 / 非該当の切り分けと、その判断根拠（全2件）<br>
-・ 今週やること と 想定される担当者（サプライチェーン管理部門、情報セキュリティ担当、法務部）<br>
+・ 今週やること と 想定される担当者（化学物質管理、化学物質管理部門、情報管理）<br>
 ・ 「変わったこと」「今までどおり続ければよいこと」の切り分け</p>
 <p>・ <strong>添付ファイル</strong>: <a href="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W15/reader_action_brief_2026-W15.pdf">reader_action_brief_2026-W15.pdf</a>（2件 / 3ページ想定）<br>
 ・ <strong>本文掲載</strong>: 2件<br>
 ・ <strong>未掲載</strong>: 14件</p>]]></content:encoded>
       <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W15.html</guid>
-      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W15/reader_action_brief_2026-W15.pdf" length="1025770" type="application/pdf"/>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W15/reader_action_brief_2026-W15.pdf" length="1049704" type="application/pdf"/>
       <pubDate>Sun, 05 Apr 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -183,16 +183,16 @@
 <p><em>本文はそのまま note (<a href="https://note.com/kamakinoworks">@kamakinoworks</a>) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。</em></p>
 <h2>今週の読み筋</h2>
 <p>今週は注視対象1件で、管轄は米国1件です。<br>
-米国のPFAS規制は、特定のサイトにおける具体的な除去措置の要求へと進展しています。</p>
-<h3>注視対象｜米EPA、ツクソン市にPFAS処理システム構築を提案</h3>
+米国のPFAS規制は、政策シグナル段階から具体的な除去措置の合意形成段階へと進展しています。</p>
+<h3>注視対象｜米国EPA、ツーソン国際空港周辺PFAS除去で和解提案</h3>
 <blockquote>
-<p>米国EPAがツクソン市のPFAS処理システム構築に関する和解案を公表しました。直接的な製品規制ではありませんが、米国でのPFAS政策動向を示す重要なシグナルです。</p>
+<p>現時点の製品規制変更ではなく、将来規制候補や政策優先度を読む案件です。PFAS等の監視対象、顧客説明、材料ロードマップへの反映要否を確認してください。</p>
 </blockquote>
 <p>・ <strong>対象地域・段階</strong>: 米国 / ガイダンス / 政策シグナル<br>
-・ <strong>対象製品</strong>: 撥水・撥油コーティング製品、防汚処理された表面を持つ製品<br>
-・ <strong>今見る理由</strong>: 本和解案は意見募集期間があり、今後のPFAS政策動向を把握し、潜在的な顧客からの要求に備える重要なシグナルとなるためです。<br>
-・ <strong>今週やること</strong>: PFAS使用箇所の社内棚卸しを開始する / 米国向け製品のPFAS関連顧客要求を調査する<br>
-・ <strong>関連日付</strong>: 2026-04-16 公表 (和解案の公示日) / 意見募集期間の終了日 (原文要確認)<br>
+・ <strong>対象製品</strong>: 電気電子機器本体、基板・モジュール・半導体搭載品<br>
+・ <strong>今見る理由</strong>: 2026-04-16 を起点に、フッ素系材料、表面処理、包装仕様を今のまま使えるかをメーカー側で確認する必要があるためです。<br>
+・ <strong>今週やること</strong>: 候補物質群と自社材料・顧客PFAS要求の監視対象を、環境規制担当と材料技術で更新してく… / 意見提出や業界団体経由コメントの要否を、法務・渉外で今週判断してください。<br>
+・ <strong>関連日付</strong>: 変更日: 2026-04-16<br>
 ・ <strong>原文</strong>: <a href="https://www.federalregister.gov/documents/2026/04/16/2026-07402/tucson-international-airport-area-site-tucson-az-notice-of-proposed-cercla-settlement-agreement-for">Federal Register EPA search（2026-04-16）</a></p>
 <h2>検知済み / 本文未掲載（12件）</h2>
 <p>本文掲載の基準には届かなかったものの、一次情報としては検知済みの案件です。判断の透明性のため、スコア順（本文掲載の境界に近い順）で一覧にしています。タイトルは原文のままです。</p>
@@ -236,13 +236,13 @@
 <p>今週号のPDFには、1件それぞれの1ページメモを収録しています。本文には載せきれなかった以下を含みます。</p>
 <p>・ 対象製品ごとの「見る部材・包装・証明書・初問」テーブル（0件）<br>
 ・ 該当 / 非該当の切り分けと、その判断根拠（全1件）<br>
-・ 今週やること と 想定される担当者（法務部門、環境規制担当部門、製品設計部門）<br>
+・ 今週やること と 想定される担当者（材料技術、法務・渉外、製品環境規制担当）<br>
 ・ 「変わったこと」「今までどおり続ければよいこと」の切り分け</p>
 <p>・ <strong>添付ファイル</strong>: <a href="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W16/reader_action_brief_2026-W16.pdf">reader_action_brief_2026-W16.pdf</a>（1件 / 2ページ想定）<br>
 ・ <strong>本文掲載</strong>: 1件<br>
 ・ <strong>未掲載</strong>: 12件</p>]]></content:encoded>
       <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W16.html</guid>
-      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W16/reader_action_brief_2026-W16.pdf" length="778675" type="application/pdf"/>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W16/reader_action_brief_2026-W16.pdf" length="856813" type="application/pdf"/>
       <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
