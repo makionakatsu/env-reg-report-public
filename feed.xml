@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Apr 2026 12:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 18:25:28 +0000</lastBuildDate>
     <item>
       <title>製品環境法規制週報 2026-3-30〜4-5_W14</title>
       <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W14.html</link>
@@ -244,6 +244,753 @@ EUの殺生物製品規制（BPR）に基づく具体的な製品認可が、市
       <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W16.html</guid>
       <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W16/reader_action_brief_2026-W16.pdf" length="856813" type="application/pdf"/>
       <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>製品環境法規制週報 2026-4-20〜4-26_W17</title>
+      <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W17.html</link>
+      <description>*本文はそのまま note ([@kamakinoworks](https://note.com/kamakinoworks)) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。*</description>
+      <content:encoded><![CDATA[<h2>製品環境法規制週報 2026-4-20〜4-26_W17</h2>
+<p><em>本文はそのまま note (<a href="https://note.com/kamakinoworks">@kamakinoworks</a>) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。</em></p>
+<h3>今週の読み筋</h3>
+<p>今週は注視対象1件で、管轄は米国 1件です。<br>
+直近では2026-06-22に関連期限が控えており、来月中に対応要否を判断したいタイミングです。<br>
+米国TSCAにおける機密保持情報の管理が透明化され、期限管理の不備による情報漏洩リスクを回避する実務対応が今週より求められます。</p>
+<h3>注視対象｜米国TSCAにおける機密保持期限の公開リスト公表と更新手続きの案内</h3>
+<blockquote>
+<p>米国TSCAに基づき過去に情報を提出し、機密保持（CBI）を主張している企業が対象です。自社の主張内容の期限を確認し、必要に応じて延長申請を行う必要があります。</p>
+</blockquote>
+<p><strong>📋 何が起きた</strong><br>
+米国環境保護庁（EPA）は、2026年4月24日、TSCAに基づく機密保持（CBI）の期限切れ予定リストを公表しました。今回対象となるのは2026年6月22日から7月31日までに期限を迎える請求分です。EPAは今後このリストを毎月更新します。期限の延長を希望する場合、企業は期限の30日前までにCDXシステムを通じて申請し、機密保持の必要性を立証しなければなりません。期限内に申請がない場合、情報が公開される可能性があります。</p>
+<p><strong>📚 これは何の制度・技術か</strong><br>
+TSCAは米国における化学物質の製造・輸入・使用等を管理する根拠法です。本件は、提出情報の機密性保護（CBI）を維持するための管理手続きに関するものです。</p>
+<p><strong>🔄 何が変わった (前版との差分)</strong><br>
+今回の通知は、公開リストの提示とCDXを通じた申請ルールの周知を図るものです。制度上の機密保持要件自体に変更はありません。</p>
+<p><strong>🎯 自社への含意</strong><br>
+メーカーへの直接の影響は製品仕様の変更ではなく、情報資産管理の適正化です。過去のTSCA提出内容を確認し、自社のCBI claimが期限を迎えていないか把握する必要があります。</p>
+<p><strong>🌐 噛み砕くと</strong><br>
+要するに、図書館の貸出期間のようなもので、延長手続きをしないと機密扱いという「鍵」が外れて公開されてしまう仕組みです。2026年6月22日以降に期限が来るデータがないか、リストを一度確認するだけでリスクが防げます [1]。</p>
+<p><strong>該当条件</strong><br>
+✅ 米国TSCAに基づき過去にEPAへ情報の提出実績がある<br>
+✅ 提出情報において機密保持（CBI）の主張を行っている<br>
+❌ TSCAへの情報提出実績がない場合<br>
+❌ 提出情報に機密保持を求めている事項が含まれない場合</p>
+<hr>
+<p>・ <strong>対象地域・段階</strong>: 米国 / ガイダンス / 情報管理<br>
+・ <strong>対象製品</strong>: 化学物質・混合物（TSCA報告対象品）、米国向け輸出製品全般の提出関連情報<br>
+・ <strong>今見る理由</strong>: 申請期限を逃すと機密情報が公開されるリスクがあるため、自社が提出した過去の情報の期限ステータスを確認する必要があるためです。<br>
+・ <strong>今週やること</strong>:<br>
+  1. EPAの公開リストに自社のCBI claimが含まれていないか確認してください。<br>
+  2. 対象となる請求がある場合、期限の30日前までにCDX経由で延長申請を準備してください。<br>
+・ <strong>担当者別アクション</strong>: 法務部門: EPAの公開リストに自社のCBI claimが含まれていないか確認してください。 / 環境規制コンプライアンス部門: 対象となる請求がある場合、期限の30日前までにCDX経由で延長申請を準備してくださ… / 輸出管理・情報管理部門: 対象となる請求がある場合、期限の30日前までにCDX経由で延長申請を準備してくださ…<br>
+・ <strong>取引先への初問</strong>: 対象物質・材料・包装が該当する製品または部材に含まれていないか確認してください。 / 回答の根拠となる証明書、SDS、材料仕様書、または分析報告の版数を提示してください。<br>
+・ <strong>証跡チェック</strong>: EPAの公開ウェブページ（tsca-cbi/cbi-claim-expiration）で定期的に更新状況を確認してください。 / 2026年4月24日付けのEPA公式発表に基づき、CBI請求の期限管理と延長申請手続きの期限（30日前まで）を確認しました。<br>
+・ <strong>関連日付</strong>: 2026-06-22 以降に順次期限が到来します。 / 期限の30日前までの延長申請が必須です。<br>
+・ <strong>原文</strong>: <a href="https://www.epa.gov/chemicals-under-tsca/epa-releases-list-expiring-confidential-business-information-claims-under-tsca">EPA Pollution Prevention and Toxics news stories（2026-04-24）</a><br>
+・ <strong>🔍 出典証跡</strong>: 一次資料 ⚠検証不可 (原本未取得) / 取得 2026-05-01</p>
+<h2>検知済み / 本文未掲載（1件）</h2>
+<p>本文掲載の基準には届かなかったものの、一次情報としては検知済みの案件です。判断の透明性のため、スコア順（本文掲載の境界に近い順）で一覧にしています。タイトルは原文のままです。</p>
+<p>・ Pesticide Experimental Use Permit; Receipt of Application; Comment Request (Feb… [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.federalregister.gov/documents/2026/04/20/2026-07625/pesticide-experimental-use-permit-receipt-of-application-comment-request-february-2026">Federal Register EPA search（2026-04-20）</a></p>
+<!-- paywall -->
+
+<p><em>— ここから先は Substack 購読者限定の内容です —</em></p>
+<hr>
+<blockquote>
+<p><strong>今週の対応判断ブリーフ PDF（1件 / 全2ページ）</strong></p>
+<p>注目 1件それぞれについて、対象部材・想定担当者・今週やることを<br>
+1ページにまとめました。社内会議や、サプライヤーへの初回問い合わせに<br>
+そのまま使える粒度です。</p>
+<p><a href="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W17/reader_action_brief_2026-W17.pdf">reader_action_brief_2026-W17.pdf をダウンロード</a></p>
+</blockquote>
+<hr>
+<h2>添付資料（PDF: 実務アクション集）</h2>
+<p>今週号のPDFには、1件それぞれの1ページメモを収録しています。本文には載せきれなかった以下を含みます。</p>
+<p>・ 対象製品ごとの「見る部材・包装・証明書・初問」テーブル（0件）<br>
+・ 該当 / 非該当の切り分けと、その判断根拠（全1件）<br>
+・ 今週やること と 想定される担当者（法務部門、環境規制コンプライアンス部門、輸出管理・情報管理部門）<br>
+・ 「変わったこと」「今までどおり続ければよいこと」の切り分け</p>
+<p>・ <strong>添付ファイル</strong>: <a href="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W17/reader_action_brief_2026-W17.pdf">reader_action_brief_2026-W17.pdf</a>（1件 / 2ページ想定）<br>
+・ <strong>本文掲載</strong>: 1件<br>
+・ <strong>未掲載</strong>: 1件</p>
+<h3>事業者 impact 詳細マトリクス</h3>
+<p>今週の規制トピックを、社内製品カタログ (config/product_matrix.yaml) と突き合わせて、影響範囲・確認部材・必要証明書を 1 枚で示します。<br>
+- <strong>化学物質登録</strong> — 対象製品ライン: 電気電子機器本体 / 確認部材: 外装樹脂、金属筐体、はんだ接合部 / 必要証明書: RoHS適合証明、SVHC/非含有証明、供給者宣言<br>
+- <strong>化学物質登録</strong> — 対象製品ライン: 基板・モジュール・半導体搭載品 / 確認部材: 基板樹脂、はんだ材料、めっき・表面処理 / 必要証明書: 部品含有化学物質データ、SVHC宣言、分析報告書<br>
+- <strong>化学物質登録</strong> — 対象製品ライン: 電池・電池パック / 確認部材: セル部材、絶縁フィルム、難燃部材 / 必要証明書: 電池材料仕様書、非含有証明、SDS</p>
+<h3>過去 4 週 citation 検証 deep dive</h3>
+<p>各規制トピックで LLM が生成した citation を、HTTP probe と sha256 照合 (documents.latest_hash) の 2 段で検証しています。本セクションには直近 build の全結果を載せ、根拠の信頼性を可視化します。</p>
+<table>
+<thead>
+<tr>
+<th>Event</th>
+<th>検証結果</th>
+<th>ホスト</th>
+<th>sha8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5c03f994a4bcf88b</td>
+<td>rejected</td>
+<td>www.epa.gov</td>
+<td>59080a70</td>
+</tr>
+</tbody>
+</table>
+<h3>Decision card 拡張版</h3>
+<p><strong>監視する</strong> — 担当: 法務部門 / 期限: 2026-06-22<br>
+- 信頼度: medium; 根拠 sha8: <code>59080a70</code><br>
+- サプライヤーへの初問: 対象製品が今回の規制スコープに該当するか、原文の定義に沿って確認をお願いします。<br>
+- 過剰反応の防止: TSCAへの情報提出実績がない場合<br>
+- Event: <code>5c03f994a4bcf88b</code></p>]]></content:encoded>
+      <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W17.html</guid>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W17/reader_action_brief_2026-W17.pdf" length="1905454" type="application/pdf"/>
+      <pubDate>Sun, 19 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>製品環境法規制週報 2026-4-27〜5-3_W18</title>
+      <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W18.html</link>
+      <description>*本文はそのまま note ([@kamakinoworks](https://note.com/kamakinoworks)) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。*</description>
+      <content:encoded><![CDATA[<h2>製品環境法規制週報 2026-4-27〜5-3_W18</h2>
+<p><em>本文はそのまま note (<a href="https://note.com/kamakinoworks">@kamakinoworks</a>) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。</em></p>
+<h3>今週の読み筋</h3>
+<p>今週は注視対象2件で、管轄は米国 2件です。<br>
+米国のTSCAリスク評価に基づき、特定の労働環境における化学物質の安全管理が実務上の焦点となります。</p>
+<h3>注視対象｜米EPAが1,2-ジクロロエタンの労働者保護に関する規制へ移行</h3>
+<blockquote>
+<p>米EPAは1,2-ジクロロエタン（1,2-DCA）の産業用途に対し、労働者保護目的の規制準備を発表しました。現時点で一般消費者向け製品への直接的な影響は報告されていません。</p>
+</blockquote>
+<p><strong>📋 何が起きた</strong><br>
+米国環境保護庁（EPA）は、毒性物質規制法（TSCA）に基づき、1,2-ジクロロエタン（1,2-DCA）の15の産業・商業用途に対して規制措置を講じる方針を発表しました。これは最終リスク評価において、特定の職場環境下で労働者に不合理な健康リスクがあると特定されたことによるものです。今後は労働者の暴露防止を目的とした職場ルールが策定される予定であり、事業者は今後の規制案公示に伴う情報開示に注視する必要があります。</p>
+<p><strong>📚 これは何の制度・技術か</strong><br>
+TSCAは、米国で化学物質の製造・輸入・使用・廃棄などを管理する根拠法です。EPAは本制度に基づき、化学物質のリスク評価とそれに基づく管理措置を実施します。</p>
+<p><strong>🔄 何が変わった (前版との差分)</strong><br>
+今回の文書はEPAによる規制方針の表明であり、具体的な職場管理ルールや義務内容については、今後の詳細な規制案公示を待つ必要があります。</p>
+<p><strong>🎯 自社への含意</strong><br>
+メーカーへの直接影響は、今後の職場環境における暴露管理要件の具体化を通じて生じます。まずは産業用途における規制対象範囲のモニタリングが必要です。</p>
+<p><strong>🌐 噛み砕くと</strong><br>
+要するに、建材や医療機器の材料を作る工場において、特定の作業工程が労働者の健康を脅かす恐れがあるため、EPAが防護策を法的に義務付けるというものです。</p>
+<p><strong>該当条件</strong><br>
+✅ 米国国内の産業・商業現場で1,2-ジクロロエタンを使用する工程を持つ<br>
+✅ 1,2-DCAを原料として製造されるPVC等の部材・製品の調達元が米国内の製造拠点である<br>
+❌ 一般消費者による通常使用（消費者製品自体に不合理なリスクは特定されていない）</p>
+<hr>
+<p>・ <strong>対象地域・段階</strong>: 米国 / ガイダンス / 監視<br>
+・ <strong>対象製品</strong>: PVC加工品、産業用機械部材<br>
+・ <strong>今見る理由</strong>: PVC等の製造現場における労働者保護規制が今後本格化するため、川上・川中でのサプライチェーンへの影響やコスト変動を早期に把握する必要があるためです。<br>
+・ <strong>今週やること</strong>:<br>
+  1. 1,2-DCAを使用するサプライヤーへの現状確認（即実行）<br>
+  2. EPAからの今後の規制案公示のモニタリング設定（継続監視）<br>
+・ <strong>担当者別アクション</strong>: 化学物質管理部門: 1,2-DCAを使用するサプライヤーへの現状確認（即実行） / 調達・サプライチェーン管理部門: EPAからの今後の規制案公示のモニタリング設定（継続監視）<br>
+・ <strong>取引先への初問</strong>: 対象物質・材料・包装が該当する製品または部材に含まれていないか確認してください。 / 回答の根拠となる証明書、SDS、材料仕様書、または分析報告の版数を提示してください。<br>
+・ <strong>証跡チェック</strong>: 今後の連邦官報（Federal Register）での具体的規制案の公表時期 / 規制対象となる15の具体的用途の詳細リスト / EPAの公式発表において、15の条件下の使用で労働者への不合理なリスクが特定されたこと、および消費者へのリスクは特定されなかったことに基づきます。<br>
+・ <strong>関連日付</strong>: 2026-05-01 規制方針発表 / 原文日付の追加確認が必要です。<br>
+・ <strong>原文</strong>: <a href="https://www.epa.gov/chemicals-under-tsca/epa-will-regulate-15-uses-12-dichloroethane-protect-american-workers">EPA Pollution Prevention and Toxics news stories（2026-05-01）</a><br>
+・ <strong>🔍 出典証跡</strong>: 一次資料 ⚠検証不可 (原本未取得) / 取得 2026-05-02<br>
+・ ※ 分類要査読: 包装・拡大生産者責任だが監視のみと分類されている</p>
+<h3>注視対象｜米国EPA 2026年2月分のTSCA新規化学物質審査結果の公示</h3>
+<blockquote>
+<p>米国EPAがTSCAに基づく新規化学物質等の審査結果を公表しました。自社が扱う新規化学物質の審査状況をリストと照合し、リスク判断を確認してください。</p>
+</blockquote>
+<p><strong>📋 何が起きた</strong><br>
+米国環境保護庁（EPA）は、毒性物質規制法（TSCA）に基づき、2026年2月1日から2月28日までに審査を完了した製造前届出（PMNs）、微生物商業活動届出（MCANs）、および重要新規利用届出（SNUNs）の結果を公示しました。本公示は、対象となる新規化学物質または重要新規利用について、健康や環境への不当なリスクをもたらす可能性が低いとのEPAの判断を伝えるものです。実務上は、リストに記載された特定の届出番号と自社の取り扱い物質・用途を照合し、リスク判定結果を確認することが推奨されます。</p>
+<p><strong>📚 これは何の制度・技術か</strong><br>
+TSCAは、米国で化学物質の製造・輸入・使用・廃棄などを管理する根拠法です。EPAは本枠組みに基づき、報告、記録、試験、制限などの事項を扱います。</p>
+<p><strong>🔄 何が変わった (前版との差分)</strong><br>
+本通知は2026年2月度の審査済みリストを提示するもので、制度そのものの変更ではありません。対象となる届出ごとの結論を確認する必要があります。</p>
+<p><strong>🎯 自社への含意</strong><br>
+メーカー影響は、個別の届出案件に関するリスク判断や、制限事項の有無を特定することで生じます。公式リストと照合し、自社のサプライチェーン上の確認が必要です。</p>
+<p><strong>🌐 噛み砕くと</strong><br>
+要するに、これは「当局による化学物質の安全審査結果の答え合わせリスト」のようなものです。テスト期間（2月1日～28日）に提出された案件について、当局が「健康や環境への悪影響は低い」と判定を下した内容が、文書番号 2026-08340 としてまとめられています。</p>
+<p><strong>該当条件</strong><br>
+✅ 米国向けに新規化学物質を輸出または製造している<br>
+✅ PMN、MCAN、SNUNの届出案件を保有または関連している<br>
+✅ TSCA上の特定の化学物質審査結果の把握が必要である<br>
+❌ 対象となる届出案件が自社の取り扱い物質と一致しない場合<br>
+❌ 化学物質規制に関する直接の関連性が現時点で確認できない場合</p>
+<hr>
+<p>・ <strong>対象地域・段階</strong>: 米国 / ガイダンス / 監視<br>
+・ <strong>対象製品</strong>: 新規化学物質を含む製品、TSCA対象の化学混合物<br>
+・ <strong>今見る理由</strong>: 自社が扱う新規化学物質が規制対象から除外または安全と判断されたかを確認し、適法な出荷を継続するためです。<br>
+・ <strong>今週やること</strong>:<br>
+  1. 官報記載の届出リストを確認し、自社該当の有無を確認してください。<br>
+  2. 該当案件がある場合は、EPAの具体的な審査結果と推奨事項を精査してください。<br>
+・ <strong>担当者別アクション</strong>: 法務部門: 官報記載の届出リストを確認し、自社該当の有無を確認してください。 / 化学物質管理部門: 該当案件がある場合は、EPAの具体的な審査結果と推奨事項を精査してください。 / 輸出入管理責任者: 該当案件がある場合は、EPAの具体的な審査結果と推奨事項を精査してください。<br>
+・ <strong>取引先への初問</strong>: 対象物質・材料・包装が該当する製品または部材に含まれていないか確認してください。 / 回答の根拠となる証明書、SDS、材料仕様書、または分析報告の版数を提示してください。<br>
+・ <strong>証跡チェック</strong>: Federal Register記載の届出リストと自社のCAS番号を照合してください。 / 毒性物質規制法（TSCA）に基づく公式の連邦官報（Federal Register）およびEPAの審査結果公示資料を根拠としています。<br>
+・ <strong>関連日付</strong>: 2026年2月1日～28日の審査期間に関する公示です。<br>
+・ <strong>原文</strong>: <a href="https://www.federalregister.gov/documents/2026/04/29/2026-08340/certain-new-chemicals-or-significant-new-uses-statements-of-findings-february-2026">Federal Register EPA search（2026-04-29）</a><br>
+・ <strong>🔍 出典証跡</strong>: 一次資料 ⚠検証不可 (原本未取得) / 取得 2026-05-01<br>
+・ ※ 分類要査読: 化学物質登録だが監視のみと分類されている</p>
+<h2>検知済み / 本文未掲載（30件）</h2>
+<p>本文掲載の基準には届かなかったものの、一次情報としては検知済みの案件です。判断の透明性のため、スコア順（本文掲載の境界に近い順）で一覧にしています。タイトルは原文のままです。</p>
+<p>・ Packaging waste - Environment - European Commission [スコア121 / 欧州連合 / 施行]<br>
+<a href="https://environment.ec.europa.eu/topics/waste-and-recycling/packaging-waste_en">European Commission packaging waste（2026-04-29）</a></p>
+<p>・ Interim PFAS Destruction and Disposal Guidance; Notice of Availability for Publ… [スコア82 / 米国 / ガイダンス] (解釈不一致: product_mapping_consistency)<br>
+米国環境保護庁（EPA）は、2026年4月28日にPFASの破壊および処分に関する暫定ガイダンスの改訂版を公表しました。<br>
+<a href="https://www.federalregister.gov/documents/2026/04/28/2026-08174/interim-pfas-destruction-and-disposal-guidance-notice-of-availability-for-public-comment">Federal Register EPA search（2026-04-28）</a></p>
+<p>・ Circular Economy - Environment - European Commission [スコア61 / 欧州連合 / 施行]<br>
+<a href="https://environment.ec.europa.eu/strategy/circular-economy_en">European Commission circular economy（2026-04-30）</a></p>
+<p>・ The corrigendum does not concern the English version. [スコア0 / 欧州連合 / 官報公布]<br>
+<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202690333">EU Official Journal L-series daily view（2026-04-30）</a></p>
+<p>・ Section 2 - Technical Support Document, Calculations, and Approval Letter [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R09-OAR-2025-0082-0005">Regulations.gov EPA dockets（2026-05-01）</a></p>
+<p>・ Environmental Impact Statements; Notice of Availability [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.federalregister.gov/documents/2026/05/01/2026-08520/environmental-impact-statements-notice-of-availability">Federal Register EPA search（2026-05-01）</a></p>
+<p>・ National Primary Drinking Water Regulations; Radionuclides [PHASE-III-RADS-III-… [スコア0 / 米国 / 提案]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OW-1986-0161-0041">Regulations.gov EPA dockets（2026-05-01）</a></p>
+<p>・ Dc_2025-03-05_EPA_response to UPA petition for recons - NWF [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R08-OAR-2024-0552-0016">Regulations.gov EPA dockets（2026-04-30）</a></p>
+<p>・ National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissi… [スコア0 / 米国 / 提案]<br>
+<a href="https://www.federalregister.gov/documents/2026/05/01/2026-08518/national-emission-standards-for-hazardous-air-pollutants-ethylene-oxide-emissions-standards-for">Federal Register EPA search（2026-05-01）</a></p>
+<p>・ Approval of Missouri's Request for Partial Program Delegation of Clean Air Act… [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.federalregister.gov/documents/2026/04/29/2026-08348/approval-of-missouris-request-for-partial-program-delegation-of-clean-air-act-112r-prevention-of">Federal Register EPA search（2026-04-29）</a></p>
+<p>・ O_Emery_et_al_2017 [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R08-OAR-2024-0552-0040">Regulations.gov EPA dockets（2026-04-30）</a></p>
+<p>・ National Primary Drinking Water Regulations; Radionuclides; Extension of Public… [スコア0 / 米国 / 提案]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OW-1986-0161-0043">Regulations.gov EPA dockets（2026-05-01）</a></p>
+<p>・ Environmental Protection Agency Draft Fiscal Year 2027 Evidence Plan [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.federalregister.gov/documents/2026/04/30/2026-08379/environmental-protection-agency-draft-fiscal-year-2027-evidence-plan">Federal Register EPA search（2026-04-30）</a></p>
+<p>・ DE 1105 - Secretary's Order [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R03-OAR-2025-0215-0014">Regulations.gov EPA dockets（2026-04-30）</a></p>
+<p>・ Air Plan Approval; Maryland; Reasonably Available Control Technology for Munici… [スコア0 / 米国 / 提案]<br>
+<a href="https://www.federalregister.gov/documents/2026/04/29/2026-08364/air-plan-approval-maryland-reasonably-available-control-technology-for-municipal-waste-combustors">Federal Register EPA search（2026-04-29）</a></p>
+<p>・ Montalban Oil and Gas Operations Administrative Record Index - Part II [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R08-OW-2025-0852-0005">Regulations.gov EPA dockets（2026-05-01）</a></p>
+<p>・ DE 1104 - Secretary's Order [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R03-OAR-2025-0215-0007">Regulations.gov EPA dockets（2026-04-30）</a></p>
+<p>・ DE 1105 - Final Version of Action [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R03-OAR-2025-0215-0012">Regulations.gov EPA dockets（2026-04-30）</a></p>
+<p>・ _R8_DocketList_2026-04 [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R08-OAR-2024-0552-0005">Regulations.gov EPA dockets（2026-04-30）</a></p>
+<p>・ National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissi… [スコア0 / 米国 / 提案]<br>
+<a href="https://www.regulations.gov/document/EPA_FRDOC_0001-32785">Regulations.gov EPA dockets（2026-05-01）</a></p>
+<p>・ Air Plan Approval; Delaware; Excess Emissions Provisions Pertaining to Periods… [スコア0 / 米国 / 提案]<br>
+<a href="https://www.federalregister.gov/documents/2026/04/30/2026-08373/air-plan-approval-delaware-excess-emissions-provisions-pertaining-to-periods-of-startup-shutdown-and">Federal Register EPA search（2026-04-30）</a></p>
+<p>・ Section 7A - Records of Extension of Public Comment Period [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R09-OAR-2024-0028-0110">Regulations.gov EPA dockets（2026-05-01）</a></p>
+<p>・ Section 1- Request for Coverage [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R09-OAR-2025-0082-0004">Regulations.gov EPA dockets（2026-05-01）</a></p>
+<p>・ Air Quality State Implementation Plans; Approvals and Promulgations: Delaware;… [スコア0 / 米国 / 提案]<br>
+<a href="https://www.regulations.gov/document/EPA-R03-OAR-2025-0215-0001">Regulations.gov EPA dockets（2026-04-30）</a></p>
+<p>・ Comprehensive Environmental Response, Compensation, and Liability Act; Proposed… [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.federalregister.gov/documents/2026/04/30/2026-08370/comprehensive-environmental-response-compensation-and-liability-act-proposed-administrative">Federal Register EPA search（2026-04-30）</a></p>
+<p>・ DE 1109 - Secretary's Order [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R03-OAR-2025-0215-0017">Regulations.gov EPA dockets（2026-04-30）</a></p>
+<p>・ Utah; Northern Wasatch Front; 2015 8-Hour Ozone National Ambient Air Quality St… [スコア0 / 米国 / 提案]<br>
+<a href="https://www.federalregister.gov/documents/2026/04/30/2026-08372/utah-northern-wasatch-front-2015-8-hour-ozone-national-ambient-air-quality-standards-reconsideration">Federal Register EPA search（2026-04-30）</a></p>
+<p>・ Environmental Impact Statements; Availability, etc. [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA_FRDOC_0001-32784">Regulations.gov EPA dockets（2026-05-01）</a></p>
+<p>・ Docket Index - Pauma Travel Center [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R09-OAR-2025-0082-0003">Regulations.gov EPA dockets（2026-05-01）</a></p>
+<p>・ Approval of Request for Coverage - Pauma [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-R09-OAR-2025-0082-0002">Regulations.gov EPA dockets（2026-05-01）</a></p>
+<!-- paywall -->
+
+<p><em>— ここから先は Substack 購読者限定の内容です —</em></p>
+<hr>
+<blockquote>
+<p><strong>今週の対応判断ブリーフ PDF（3件 / 全4ページ）</strong></p>
+<p>注目 3件それぞれについて、対象部材・想定担当者・今週やることを<br>
+1ページにまとめました。社内会議や、サプライヤーへの初回問い合わせに<br>
+そのまま使える粒度です。</p>
+<p><a href="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W18/reader_action_brief_2026-W18.pdf">reader_action_brief_2026-W18.pdf をダウンロード</a></p>
+</blockquote>
+<hr>
+<h2>添付資料（PDF: 実務アクション集）</h2>
+<p>今週号のPDFには、3件それぞれの1ページメモを収録しています。本文には載せきれなかった以下を含みます。</p>
+<p>・ 対象製品ごとの「見る部材・包装・証明書・初問」テーブル（0件）<br>
+・ 該当 / 非該当の切り分けと、その判断根拠（全3件）<br>
+・ 今週やること と 想定される担当者（化学物質管理部門、サステナビリティ担当、法務部門）<br>
+・ 「変わったこと」「今までどおり続ければよいこと」の切り分け</p>
+<p>・ <strong>添付ファイル</strong>: <a href="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W18/reader_action_brief_2026-W18.pdf">reader_action_brief_2026-W18.pdf</a>（3件 / 4ページ想定）<br>
+・ <strong>本文掲載</strong>: 2件<br>
+・ <strong>未掲載</strong>: 30件</p>
+<h3>事業者 impact 詳細マトリクス</h3>
+<p>今週の規制トピックを、社内製品カタログ (config/product_matrix.yaml) と突き合わせて、影響範囲・確認部材・必要証明書を 1 枚で示します。<br>
+- <strong>包装・拡大生産者責任</strong> — 対象製品ライン: 電池・電池パック / 確認部材: セル部材、絶縁フィルム、難燃部材 / 必要証明書: 電池材料仕様書、非含有証明、SDS<br>
+- <strong>包装・拡大生産者責任</strong> — 対象製品ライン: 包装材・ラベル・同梱品 / 確認部材: インキ、接着剤、ラベル基材 / 必要証明書: 包装材構成表、材質証明、EPR登録情報<br>
+- <strong>化学物質登録</strong> — 対象製品ライン: 電気電子機器本体 / 確認部材: 外装樹脂、金属筐体、はんだ接合部 / 必要証明書: RoHS適合証明、SVHC/非含有証明、供給者宣言<br>
+- <strong>化学物質登録</strong> — 対象製品ライン: 基板・モジュール・半導体搭載品 / 確認部材: 基板樹脂、はんだ材料、めっき・表面処理 / 必要証明書: 部品含有化学物質データ、SVHC宣言、分析報告書<br>
+- <strong>化学物質登録</strong> — 対象製品ライン: 電池・電池パック / 確認部材: セル部材、絶縁フィルム、難燃部材 / 必要証明書: 電池材料仕様書、非含有証明、SDS</p>
+<h3>過去 4 週 citation 検証 deep dive</h3>
+<p>各規制トピックで LLM が生成した citation を、HTTP probe と sha256 照合 (documents.latest_hash) の 2 段で検証しています。本セクションには直近 build の全結果を載せ、根拠の信頼性を可視化します。</p>
+<table>
+<thead>
+<tr>
+<th>Event</th>
+<th>検証結果</th>
+<th>ホスト</th>
+<th>sha8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1b99f566afda91cb</td>
+<td>rejected</td>
+<td>www.federalregister.gov</td>
+<td>23379c3e</td>
+</tr>
+<tr>
+<td>4427fc06413958af</td>
+<td>rejected</td>
+<td>www.epa.gov</td>
+<td>5f9a9c4b</td>
+</tr>
+<tr>
+<td>f247f1d53ccba32c</td>
+<td>rejected</td>
+<td>www.federalregister.gov</td>
+<td>cbb5e9f6</td>
+</tr>
+</tbody>
+</table>
+<h3>Decision card 拡張版</h3>
+<p><strong>監視する</strong> — 担当: 環境コンプライアンス担当 / 期限: 今週中<br>
+- 信頼度: medium; 根拠 sha8: <code>cbb5e9f6</code><br>
+- サプライヤーへの初問: 対象製品が今回の規制スコープに該当するか、原文の定義に沿って確認をお願いします。<br>
+- 過剰反応の防止: 本ガイダンスは廃棄業者や処理施設向けの技術指針であり、製造業者の出荷製品を直接禁止するものではない<br>
+- Event: <code>f247f1d53ccba32c</code></p>
+<p><strong>監視する</strong> — 担当: 化学物質管理部門 / 期限: 2026-05-01<br>
+- 信頼度: medium; 根拠 sha8: <code>5f9a9c4b</code><br>
+- サプライヤーへの初問: 対象製品が今回の規制スコープに該当するか、原文の定義に沿って確認をお願いします。<br>
+- 過剰反応の防止: 一般消費者による通常使用（消費者製品自体に不合理なリスクは特定されていない）<br>
+- Event: <code>4427fc06413958af</code></p>
+<p><strong>監視する</strong> — 担当: 法務部門 / 期限: 今週中<br>
+- 信頼度: medium; 根拠 sha8: <code>23379c3e</code><br>
+- サプライヤーへの初問: 対象製品が今回の規制スコープに該当するか、原文の定義に沿って確認をお願いします。<br>
+- 過剰反応の防止: 対象となる届出案件が自社の取り扱い物質と一致しない場合<br>
+- Event: <code>1b99f566afda91cb</code></p>]]></content:encoded>
+      <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W18.html</guid>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W18/reader_action_brief_2026-W18.pdf" length="2364247" type="application/pdf"/>
+      <pubDate>Sun, 26 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>製品環境法規制週報 2026-5-4〜5-10_W19</title>
+      <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W19.html</link>
+      <description>*本文はそのまま note ([@kamakinoworks](https://note.com/kamakinoworks)) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。*</description>
+      <content:encoded><![CDATA[<h2>製品環境法規制週報 2026-5-4〜5-10_W19</h2>
+<p><em>本文はそのまま note (<a href="https://note.com/kamakinoworks">@kamakinoworks</a>) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。</em></p>
+<h3>🎯 30 秒で要点把握</h3>
+<p><strong>今週: 🟢 新規対応なし / ⚪ 監視継続 1 件</strong><br>
+管轄: 全主要管轄で新規動向なし<br>
+<strong>1 行で言うと</strong>: 今週は検知 1 件のうち、直ちに社内対応が必要な本文掲載案件はありません。一斉の運用変更は不要ですが、監視継続事項は残っています。</p>
+<h3>動かなくてよい理由</h3>
+<p>・ 有害物質規制: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 化学物質規制: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ PFAS: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 化学物質登録: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 包装・拡大生産者責任: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 電池規則: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 検知 1 件中 1 件は監視継続として残し、本文掲載判断は不要と判定しました。</p>
+<h3>来週以降の先行指標</h3>
+<p>・ PFAS (PFAS飲料水): 監視継続。次の動きが出た週は本文掲載候補として再評価します。<br>
+・ 化学物質登録 (TSCA CBI): 監視継続。次の動きが出た週は本文掲載候補として再評価します。<br>
+・ PFAS (SDWA CCL): 監視継続。次の動きが出た週は本文掲載候補として再評価します。</p>
+<h3>📅 今月の規制カレンダー更新</h3>
+<p>・ 本月の予定: 詳細は別途 deadline_calendar.ics を参照 (Sprint 16 で本欄に統合予定)。</p>
+<h3>社内で棚卸ししておくとよい証跡</h3>
+<p>・ Tier-2 サプライヤーの化学物質情報伝達フローを再確認<br>
+・ 電池含有製品の CE 適合宣言書 (DoC) の発行記録を確認<br>
+・ 技術文書 (Technical Documentation) の改訂履歴が最新版と一致しているか確認</p>
+<h3>過去 4 週の継続監視テーマ</h3>
+<p>・ 2026-W18: 米国 (監視推奨 2)<br>
+・ 2026-W17: 米国 (監視推奨 1)<br>
+・ 2026-W16: 米国 (監視推奨 1)<br>
+・ 2026-W15: 米国 (監視推奨 2)</p>
+<h3>📖 今週の用語ミニ解説</h3>
+<p>・ <strong>包装材規則</strong>: Packaging and Packaging Waste Regulation (EU)。包装の設計要件・リサイクル率・再利用目標・特定物質 (重金属、PFAS 等) 制限を定める EU 規則。従来の指令 94/62/EC を強化する形で置き換え。</p>
+<h2>今週の結論</h2>
+<p>今週は検知 1 件のうち、直ちに社内対応が必要な本文掲載案件はありません。一斉の運用変更は不要ですが、監視継続事項は残っています。</p>
+<h2>今週やらなくてよいこと</h2>
+<p>・ 今週中の一斉な設計変更・出荷停止・全社周知は不要です。<br>
+・ 根拠が固まっていない案件について、先回りした一律の供給者再照会は不要です。</p>
+<h2>監視継続事項</h2>
+<p>・ 米国の提案案件（文書番号 2026-08662）: 米国の提案案件（文書番号 2026-08662） は制度化前のため、正式施行日や確定版の有無を追跡します。 (次回週報まで継続監視)</p>
+<h2>見送った理由</h2>
+<p>・ 米国の提案案件（文書番号 2026-08662） [時期尚早]: 方向性の把握は必要ですが、直近で運用変更を要する段階ではないため監視継続に留めます。</p>
+<h2>次回までの確認</h2>
+<p>・ 高頻度テーマ (PFAS / REACH / RoHS / 包装・EPR) の次回更新有無を週次で確認する。<br>
+・ 米国の提案案件（文書番号 2026-08662） について、次回週報まで継続監視。</p>
+<h2>関連しうる担当</h2>
+<p>・ 環境法規制</p>
+<!-- paywall -->
+
+<p><em>— ここから先は Substack 購読者限定の内容です —</em></p>
+<h3>事業者 impact 詳細マトリクス</h3>
+<p>今週の規制トピックを、社内製品カタログ (config/product_matrix.yaml) と突き合わせて、影響範囲・確認部材・必要証明書を 1 枚で示します。</p>
+<p><em>今週は分類済みの規制トピックがありません。</em></p>
+<h3>過去 4 週 citation 検証 deep dive</h3>
+<p><em>過去 4 週で検証済み citation はありません。</em></p>
+<h3>Decision card 拡張版</h3>
+<p><em>今週は decision card が生成されていません。</em></p>]]></content:encoded>
+      <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W19.html</guid>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W19/reader_action_brief_2026-W19.pdf" length="1316385" type="application/pdf"/>
+      <pubDate>Sun, 03 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>製品環境法規制週報 2026-5-11〜5-17_W20</title>
+      <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W20.html</link>
+      <description>*本文はそのまま note ([@kamakinoworks](https://note.com/kamakinoworks)) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。*</description>
+      <content:encoded><![CDATA[<h2>製品環境法規制週報 2026-5-11〜5-17_W20</h2>
+<p><em>本文はそのまま note (<a href="https://note.com/kamakinoworks">@kamakinoworks</a>) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。</em></p>
+<h3>🎯 30 秒で要点把握</h3>
+<p><strong>今週: 🟢 新規対応なし / ⚪ 監視継続 17 件</strong><br>
+管轄: 全主要管轄で新規動向なし<br>
+<strong>1 行で言うと</strong>: 今週は検知 17 件のうち、直ちに社内対応が必要な本文掲載案件はありません。一斉の運用変更は不要ですが、監視継続事項は残っています。</p>
+<h3>動かなくてよい理由</h3>
+<p>・ 有害物質規制: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 化学物質規制: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ PFAS: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 化学物質登録: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 包装・拡大生産者責任: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 電池規則: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 検知 17 件中 17 件は監視継続として残し、本文掲載判断は不要と判定しました。</p>
+<h3>来週以降の先行指標</h3>
+<p>・ 化学物質登録 (TSCA CBI): 監視継続。次の動きが出た週は本文掲載候補として再評価します。<br>
+・ PFAS (SDWA CCL): 監視継続。次の動きが出た週は本文掲載候補として再評価します。<br>
+・ 化学物質登録 (TSCA): 監視継続。次の動きが出た週は本文掲載候補として再評価します。</p>
+<h3>📅 今月の規制カレンダー更新</h3>
+<p>・ 本月の予定: 詳細は別途 deadline_calendar.ics を参照 (Sprint 16 で本欄に統合予定)。</p>
+<h3>社内で棚卸ししておくとよい証跡</h3>
+<p>・ PFAS 含有材料の SDS 最新版を確認 (RoHS exemption renewal の事前準備)<br>
+・ ECHA SCIP database 既存 article ID の有効性を確認<br>
+・ 包装材中の重金属含有量試験記録を棚卸し (PPWR 移行準備)</p>
+<h3>過去 4 週の継続監視テーマ</h3>
+<p>・ 2026-W18: 米国 (監視推奨 2)<br>
+・ 2026-W17: 米国 (監視推奨 1)<br>
+・ 2026-W16: 米国 (監視推奨 1)</p>
+<h3>📖 今週の用語ミニ解説</h3>
+<p>・ <strong>EPR</strong>: Extended Producer Responsibility (拡大生産者責任)。製品ライフサイクルの廃棄段階のコストと管理責任を生産者に拡張する原則。WEEE・ELV・包装材規則などの設計思想。</p>
+<h2>今週の結論</h2>
+<p>今週は検知 17 件のうち、直ちに社内対応が必要な本文掲載案件はありません。一斉の運用変更は不要ですが、監視継続事項は残っています。</p>
+<h2>今週やらなくてよいこと</h2>
+<p>・ 今週中の一斉な設計変更・出荷停止・全社周知は不要です。<br>
+・ 根拠が固まっていない案件について、先回りした一律の供給者再照会は不要です。</p>
+<h2>監視継続事項</h2>
+<p>・ 米国の提案案件（文書番号 2026-09616）: 米国の提案案件（文書番号 2026-09616） は制度化前のため、正式施行日や確定版の有無を追跡します。 (次回週報まで継続監視)<br>
+・ 米国のガイダンス案件（文書番号 2026-09613）: 米国のガイダンス案件（文書番号 2026-09613） は制度化前のため、正式施行日や確定版の有無を追跡します。 (次回週報まで継続監視)<br>
+・ 米国のガイダンス案件（文書番号 2026-09618）: 米国のガイダンス案件（文書番号 2026-09618） は制度化前のため、正式施行日や確定版の有無を追跡します。 (次回週報まで継続監視)</p>
+<h2>見送った理由</h2>
+<p>・ 米国の提案案件（文書番号 2026-09616） [時期尚早]: 方向性の把握は必要ですが、直近で運用変更を要する段階ではないため監視継続に留めます。<br>
+・ 米国のガイダンス案件（文書番号 2026-09613） [時期尚早]: 方向性の把握は必要ですが、直近で運用変更を要する段階ではないため監視継続に留めます。<br>
+・ 米国のガイダンス案件（文書番号 2026-09618） [時期尚早]: 方向性の把握は必要ですが、直近で運用変更を要する段階ではないため監視継続に留めます。</p>
+<h2>次回までの確認</h2>
+<p>・ 高頻度テーマ (PFAS / REACH / RoHS / 包装・EPR) の次回更新有無を週次で確認する。<br>
+・ 米国の提案案件（文書番号 2026-09616） について、次回週報まで継続監視。</p>
+<h2>関連しうる担当</h2>
+<p>・ 環境法規制</p>
+<!-- paywall -->
+
+<p><em>— ここから先は Substack 購読者限定の内容です —</em></p>
+<h3>事業者 impact 詳細マトリクス</h3>
+<p>今週の規制トピックを、社内製品カタログ (config/product_matrix.yaml) と突き合わせて、影響範囲・確認部材・必要証明書を 1 枚で示します。</p>
+<p><em>今週は分類済みの規制トピックがありません。</em></p>
+<h3>過去 4 週 citation 検証 deep dive</h3>
+<p><em>過去 4 週で検証済み citation はありません。</em></p>
+<h3>Decision card 拡張版</h3>
+<p><em>今週は decision card が生成されていません。</em></p>]]></content:encoded>
+      <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W20.html</guid>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W20/reader_action_brief_2026-W20.pdf" length="1328458" type="application/pdf"/>
+      <pubDate>Sun, 10 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>製品環境法規制週報 2026-5-18〜5-24_W21</title>
+      <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W21.html</link>
+      <description>*本文はそのまま note ([@kamakinoworks](https://note.com/kamakinoworks)) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。*</description>
+      <content:encoded><![CDATA[<h2>製品環境法規制週報 2026-5-18〜5-24_W21</h2>
+<p><em>本文はそのまま note (<a href="https://note.com/kamakinoworks">@kamakinoworks</a>) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。</em></p>
+<h3>🎯 30秒で把握 (Today's Take)</h3>
+<p><strong>今週: 🟢 新規対応なし / ⚪ 監視継続 0 件</strong><br>
+管轄: 全主要管轄で新規動向なし<br>
+<strong>1 行で言うと</strong>: 今週は新規検知がなく、既存の監視方針を維持して問題ありません。</p>
+<h3>✅ 動かなくてよい理由</h3>
+<p>・ 有害物質規制: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 化学物質規制: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ PFAS: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 化学物質登録: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 包装・拡大生産者責任: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 電池規則: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 今週は主要 source からの新規検知自体がなく、監視サイクル全体が静穏でした。</p>
+<h3>🔭 来週以降の先行指標</h3>
+<p>・ PFAS (SDWA CCL): 監視継続。次の動きが出た週は本文掲載候補として再評価します。<br>
+・ 化学物質登録 (TSCA): 監視継続。次の動きが出た週は本文掲載候補として再評価します。<br>
+・ PFAS (PFAS飲料水): 監視継続。次の動きが出た週は本文掲載候補として再評価します。</p>
+<h3>📅 今月の規制カレンダー更新</h3>
+<p>・ 本月の予定: 詳細は別途 deadline_calendar.ics を参照 (Sprint 16 で本欄に統合予定)。</p>
+<h3>🔍 社内で棚卸ししておくとよい証跡</h3>
+<p>・ ECHA SCIP database 既存 article ID の有効性を確認<br>
+・ 包装材中の重金属含有量試験記録を棚卸し (PPWR 移行準備)<br>
+・ 主要サプライヤーの REACH SVHC 申告書の有効期限を確認</p>
+<h3>🔄 過去 4 週の継続監視テーマ</h3>
+<p>・ 2026-W18: 米国 (監視推奨 1)</p>
+<h3>📖 今週の用語ミニ解説</h3>
+<p>・ <strong>デジタル製品パスポート</strong>: Digital Product Passport。ESPR の中核要素として、製品の素材構成・耐久性・修理性・リサイクル性等の情報を電子的に格納し、サプライチェーン全体で共有可能にする仕組み。</p>
+<h2>今週の結論</h2>
+<p>今週は新規検知がなく、既存の監視方針を維持して問題ありません。</p>
+<h2>今週やらなくてよいこと</h2>
+<p>・ 今週中の一斉な設計変更・出荷停止・全社周知は不要です。<br>
+・ 根拠が固まっていない案件について、先回りした一律の供給者再照会は不要です。</p>
+<h2>監視継続事項</h2>
+<p>・ 対象なし</p>
+<h2>次回までの確認</h2>
+<p>・ 高頻度テーマ (PFAS / REACH / RoHS / 包装・EPR) の次回更新有無を週次で確認する。<br>
+・ 既存の監視テーマに対する月次レビューを維持する。</p>
+<!-- paywall -->
+
+<p><em>— ここから先は Substack 購読者限定の内容です —</em></p>
+<h3>事業者 impact 詳細マトリクス</h3>
+<p>今週の規制トピックを、社内製品カタログ (config/product_matrix.yaml) と突き合わせて、影響範囲・確認部材・必要証明書を 1 枚で示します。</p>
+<p><em>今週は分類済みの規制トピックがありません。</em></p>
+<h3>過去 4 週 citation 検証 deep dive</h3>
+<p><em>過去 4 週で検証済み citation はありません。</em></p>
+<h3>Decision card 拡張版</h3>
+<p><em>今週は decision card が生成されていません。</em></p>]]></content:encoded>
+      <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W21.html</guid>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W21/reader_action_brief_2026-W21.pdf" length="368777" type="application/pdf"/>
+      <pubDate>Sun, 17 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>製品環境法規制週報 2026-6-8〜6-14_W24</title>
+      <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W24.html</link>
+      <description>*本文はそのまま note ([@kamakinoworks](https://note.com/kamakinoworks)) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。*</description>
+      <content:encoded><![CDATA[<h2>製品環境法規制週報 2026-6-8〜6-14_W24</h2>
+<p><em>本文はそのまま note (<a href="https://note.com/kamakinoworks">@kamakinoworks</a>) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。</em></p>
+<h3>今週の読み筋</h3>
+<p>今週は注視対象1件で、管轄は米国 1件です。<br>
+直近では2026-06-10の関連期限が迫っており、今週中の判断が必要です。<br>
+米国の化学物質管理において、TSCA 新規化学物質審査の現状を把握することは供給網の安定運用に不可欠です。</p>
+<h3>注視対象｜米国 EPA による化学物質審査状況の公示 2026 年 6 月版</h3>
+<blockquote>
+<p>米国EPAによるTSCA新規化学物質届出の受領および審査状況の定期報告です。自社が扱う化学物質や原材料が審査リストに含まれていないか確認が推奨されます。</p>
+</blockquote>
+<p><strong>📋 何が起きた</strong><br>
+米国環境保護庁（EPA）は、2025年11月から2026年2月までの期間におけるTSCAに基づく新規化学物質届出状況を公示しました。本通知には、製造前届出（PMN）、重要新規利用届出（SNUN）、微生物商業活動届出（MCAN）、および試験マーケティング免除（TME）などの受領情報が含まれます。本公示は、審査プロセスにおける透明性確保のため定期的に行われるものであり、対象期間中に初期スクリーニングを通過し、完全性が確認された届出案件のリストを公表しています。</p>
+<p><strong>📚 これは何の制度・技術か</strong><br>
+TSCAは、米国で化学物質の製造・輸入・使用・廃棄などを管理する根拠法です。EPAは報告、記録、試験、制限などをこの枠組みで扱います。</p>
+<p><strong>🔄 何が変わった (前版との差分)</strong><br>
+今回の通知は、2026年2月までの届出状況の現状を公開するものです。規制要件の変更ではなく、あくまで現時点の審査ステータスの報告となります。</p>
+<p><strong>🎯 自社への含意</strong><br>
+メーカー影響は、新規化学物質の市場参入に伴う規制上の制限や追加の試験報告要件を確認することで生じます。</p>
+<p><strong>🌐 噛み砕くと</strong><br>
+要するに、役所が「今、市場に出そうとしている新しい化学物質をこれだけ審査しています」というリストを公開したものです。図書館の貸出リストが更新されるように、どの化学物質が現在どの審査段階にあるかを定期的にチェックするための資料です。</p>
+<p><strong>該当条件</strong><br>
+✅ 米国向けに化学物質、混合物、成形品を扱う企業<br>
+✅ TSCA上の報告、記録、制限に関係する可能性がある企業<br>
+❌ バイオテクノロジー免除や試験マーケティング免除など、特定の適用除外を確認する場合<br>
+❌ 対象物質、用途、義務が原文のリストで確認できない場合</p>
+<hr>
+<p>・ <strong>対象地域・段階</strong>: 米国 / ガイダンス / 監視<br>
+・ <strong>対象製品</strong>: 指定なし<br>
+・ <strong>今見る理由</strong>: 新規化学物質の審査状況を把握することで、将来のサプライチェーンにおける原材料供給への影響を早期に評価する必要があるためです。<br>
+・ <strong>今週やること</strong>: 公開された届出案件リストに自社の調達原材料が含まれていないか確認する<br>
+・ <strong>担当者別アクション</strong>: 化学物質管理部門: 公開された届出案件リストに自社の調達原材料が含まれていないか確認する / 法務コンプライアンス担当: 公開された届出案件リストに自社の調達原材料が含まれていないか確認する / 調達・サプライチェーン管理部門: 公開された届出案件リストに自社の調達原材料が含まれていないか確認する<br>
+・ <strong>取引先への初問</strong>: 対象物質・材料・包装が該当する製品または部材に含まれていないか確認してください。 / 回答の根拠となる証明書、SDS、材料仕様書、または分析報告の版数を提示してください。<br>
+・ <strong>証跡チェック</strong>: Federal Register記載の物質リストと自社の化学物質インベントリとの照合 / 本報告は、TSCA第5条に基づき公表されたFederal Register（文書番号: 2026-11591）の公式データに基づいています。<br>
+・ <strong>関連日付</strong>: <strong>2026-06-10 公示</strong><br>
+・ <strong>原文</strong>: <a href="https://www.federalregister.gov/documents/2026/06/10/2026-11591/certain-new-chemicals-receipt-and-status-information-for-november-2025-january-2026-and-february">Federal Register EPA search（2026-06-10）</a><br>
+・ <strong>🔍 出典証跡</strong>: 一次資料 ⚠検証不可 (原本未取得) / 取得 2026-06-10<br>
+・ ※ 分類要査読: 化学物質登録だが監視のみと分類されている</p>
+<h2>検知済み / 本文未掲載（13件）</h2>
+<p>本文掲載の基準には届かなかったものの、一次情報としては検知済みの案件です。判断の透明性のため、スコア順（本文掲載の境界に近い順）で一覧にしています。タイトルは原文のままです。</p>
+<p>・ Circular Economy - Environment - European Commission [スコア61 / 欧州連合 / 施行]<br>
+<a href="https://environment.ec.europa.eu/strategy/circular-economy_en">European Commission circular economy（2026-06-10）</a></p>
+<p>・ Air Plan Approval; Minnesota; Revision to Taconite Federal Implementation Plan [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.federalregister.gov/documents/2026/06/08/2026-11432/air-plan-approval-minnesota-revision-to-taconite-federal-implementation-plan">Federal Register EPA search（2026-06-08）</a></p>
+<p>・ Significant New Use Rules on Certain Chemical Substances (26-1) [スコア0 / 米国 / 提案]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OPPT-2026-0499-0001">Regulations.gov EPA dockets（2026-06-10）</a></p>
+<p>・ Approval and Promulgation of Air Quality Implementation Plans; Wyoming; Regiona… [スコア0 / 米国 / 提案]<br>
+<a href="https://www.federalregister.gov/documents/2026/06/08/2026-11436/approval-and-promulgation-of-air-quality-implementation-plans-wyoming-regional-haze-federal">Federal Register EPA search（2026-06-08）</a></p>
+<p>・ P-24-0070 Supporting Documents [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OPPT-2026-0499-0025">Regulations.gov EPA dockets（2026-06-10）</a></p>
+<p>・ P-24-0114 Supporting Documents [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OPPT-2026-0499-0029">Regulations.gov EPA dockets（2026-06-10）</a></p>
+<p>・ EPA Clarifications from Day 1 of SACC June 8, 2026 [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OPPT-2026-1189-0106">Regulations.gov EPA dockets（2026-06-10）</a></p>
+<p>・ P-20-0174 PMN Sanitized [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OPPT-2026-0499-0002">Regulations.gov EPA dockets（2026-06-10）</a></p>
+<p>・ P-23-0078 PMN Sanitized [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OPPT-2026-0499-0008">Regulations.gov EPA dockets（2026-06-10）</a></p>
+<p>・ P-24-0105 PMN Sanitized [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OPPT-2026-0499-0026">Regulations.gov EPA dockets（2026-06-10）</a></p>
+<p>・ P-24-0070 PMN Sanitized [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OPPT-2026-0499-0024">Regulations.gov EPA dockets（2026-06-10）</a></p>
+<p>・ P-24-0046-0047 Supporting Documents [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OPPT-2026-0499-0023">Regulations.gov EPA dockets（2026-06-10）</a></p>
+<p>・ P-25-0107 Supporting Documents [スコア0 / 米国 / ガイダンス]<br>
+<a href="https://www.regulations.gov/document/EPA-HQ-OPPT-2026-0499-0032">Regulations.gov EPA dockets（2026-06-10）</a></p>
+<!-- paywall -->
+
+<p><em>— ここから先は Substack 購読者限定の内容です —</em></p>
+<hr>
+<blockquote>
+<p><strong>今週の対応判断ブリーフ PDF（1件 / 全2ページ）</strong></p>
+<p>注目 1件それぞれについて、対象部材・想定担当者・今週やることを<br>
+1ページにまとめました。社内会議や、サプライヤーへの初回問い合わせに<br>
+そのまま使える粒度です。</p>
+<p><a href="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W24/reader_action_brief_2026-W24.pdf">reader_action_brief_2026-W24.pdf をダウンロード</a></p>
+</blockquote>
+<hr>
+<h2>添付資料（PDF: 実務アクション集）</h2>
+<p>今週号のPDFには、1件それぞれの1ページメモを収録しています。本文には載せきれなかった以下を含みます。</p>
+<p>・ 対象製品ごとの「見る部材・包装・証明書・初問」テーブル（0件）<br>
+・ 該当 / 非該当の切り分けと、その判断根拠（全1件）<br>
+・ 今週やること と 想定される担当者（化学物質管理部門、法務コンプライアンス担当、調達・サプライチェーン管理部門）<br>
+・ 「変わったこと」「今までどおり続ければよいこと」の切り分け</p>
+<p>・ <strong>添付ファイル</strong>: <a href="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W24/reader_action_brief_2026-W24.pdf">reader_action_brief_2026-W24.pdf</a>（1件 / 2ページ想定）<br>
+・ <strong>本文掲載</strong>: 1件<br>
+・ <strong>未掲載</strong>: 13件</p>
+<h3>事業者 impact 詳細マトリクス</h3>
+<p>今週の規制トピックを、社内製品カタログ (config/product_matrix.yaml) と突き合わせて、影響範囲・確認部材・必要証明書を 1 枚で示します。<br>
+- <strong>化学物質登録</strong> — 対象製品ライン: 電気電子機器本体 / 確認部材: 外装樹脂、金属筐体、はんだ接合部 / 必要証明書: RoHS適合証明、SVHC/非含有証明、供給者宣言<br>
+- <strong>化学物質登録</strong> — 対象製品ライン: 基板・モジュール・半導体搭載品 / 確認部材: 基板樹脂、はんだ材料、めっき・表面処理 / 必要証明書: 部品含有化学物質データ、SVHC宣言、分析報告書<br>
+- <strong>化学物質登録</strong> — 対象製品ライン: 電池・電池パック / 確認部材: セル部材、絶縁フィルム、難燃部材 / 必要証明書: 電池材料仕様書、非含有証明、SDS</p>
+<h3>過去 4 週 citation 検証 deep dive</h3>
+<p>各規制トピックで LLM が生成した citation を、HTTP probe と sha256 照合 (documents.latest_hash) の 2 段で検証しています。本セクションには直近 build の全結果を載せ、根拠の信頼性を可視化します。</p>
+<table>
+<thead>
+<tr>
+<th>Event</th>
+<th>検証結果</th>
+<th>ホスト</th>
+<th>sha8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3f11c3e15e1f0c14</td>
+<td>rejected</td>
+<td>www.federalregister.gov</td>
+<td>80f84570</td>
+</tr>
+</tbody>
+</table>
+<h3>Decision card 拡張版</h3>
+<p><strong>監視する</strong> — 担当: 化学物質管理部門 / 期限: 2026-06-10<br>
+- 信頼度: medium; 根拠 sha8: <code>80f84570</code><br>
+- サプライヤーへの初問: 対象製品が今回の規制スコープに該当するか、原文の定義に沿って確認をお願いします。<br>
+- 過剰反応の防止: バイオテクノロジー免除や試験マーケティング免除など、特定の適用除外を確認する場合<br>
+- Event: <code>3f11c3e15e1f0c14</code></p>]]></content:encoded>
+      <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W24.html</guid>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W24/reader_action_brief_2026-W24.pdf" length="1952918" type="application/pdf"/>
+      <pubDate>Sun, 07 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>製品環境法規制週報 2026-6-15〜6-21_W25</title>
+      <link>https://makionakatsu.github.io/env-reg-report-public/posts/2026-W25.html</link>
+      <description>*本文はそのまま note ([@kamakinoworks](https://note.com/kamakinoworks)) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。*</description>
+      <content:encoded><![CDATA[<h2>製品環境法規制週報 2026-6-15〜6-21_W25</h2>
+<p><em>本文はそのまま note (<a href="https://note.com/kamakinoworks">@kamakinoworks</a>) でも無料公開しています。Substack 版では追加で、Decision Brief PDF、月曜朝の自動メール配信、過去号の検索・アーカイブをご利用いただけます。</em></p>
+<h3>🎯 30 秒で要点把握</h3>
+<p><strong>今週: 🟢 新規対応なし / ⚪ 監視継続 16 件</strong><br>
+管轄: 全主要管轄で新規動向なし<br>
+<strong>1 行で言うと</strong>: 今週は検知 16 件のうち、直ちに社内対応が必要な本文掲載案件はありません。一斉の運用変更は不要ですが、監視継続事項は残っています。</p>
+<h3>動かなくてよい理由</h3>
+<p>・ 有害物質規制: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 化学物質規制: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ PFAS: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 化学物質登録: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 包装・拡大生産者責任: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 電池規則: 今週は新規対応必須案件 0 件を確認しました。<br>
+・ 検知 16 件中 16 件は監視継続として残し、本文掲載判断は不要と判定しました。</p>
+<h3>来週以降の先行指標</h3>
+<p>・ PFAS (SDWA CCL): 監視継続。次の動きが出た週は本文掲載候補として再評価します。<br>
+・ 化学物質登録 (TSCA): 監視継続。次の動きが出た週は本文掲載候補として再評価します。<br>
+・ PFAS (PFAS飲料水): 監視継続。次の動きが出た週は本文掲載候補として再評価します。</p>
+<h3>📅 今月の規制カレンダー更新</h3>
+<p>・ 本月の予定: 詳細は別途 deadline_calendar.ics を参照 (Sprint 16 で本欄に統合予定)。</p>
+<h3>社内で棚卸ししておくとよい証跡</h3>
+<p>・ 包装ラベル上の素材表示が EU 加盟国の最新要求と整合しているか確認<br>
+・ 主要サプライヤーの REACH SVHC 申告書の有効期限を確認<br>
+・ 電池含有製品の CE 適合宣言書 (DoC) の発行記録を確認</p>
+<h3>過去 4 週の継続監視テーマ</h3>
+<p>・ 2026-W24: 米国 (監視推奨 1)</p>
+<h3>📖 今週の用語ミニ解説</h3>
+<p>・ <strong>eCFR</strong>: Electronic Code of Federal Regulations。米国連邦規則集 (CFR) の継続的更新版を提供する公式 web サイト (ecfr.gov)。引用時は Title-Part-Section の形式で表記する。</p>
+<h2>今週の結論</h2>
+<p>今週は検知 16 件のうち、直ちに社内対応が必要な本文掲載案件はありません。一斉の運用変更は不要ですが、監視継続事項は残っています。</p>
+<h2>今週やらなくてよいこと</h2>
+<p>・ 今週中の一斉な設計変更・出荷停止・全社周知は不要です。<br>
+・ 根拠が固まっていない案件について、先回りした一律の供給者再照会は不要です。</p>
+<h2>監視継続事項</h2>
+<p>・ 欧州連合の官報公布案件（L 2026/90496）: 欧州連合の官報公布案件（L 2026/90496） は現時点で製造業一般への直接影響が限定的ですが、用途該当が見えた時点で再評価します。 (次回月次レビューで再確認)<br>
+・ 米国のガイダンス案件: 米国のガイダンス案件 は制度化前のため、正式施行日や確定版の有無を追跡します。 (次回週報まで継続監視)<br>
+・ 米国のガイダンス案件: 米国のガイダンス案件 は制度化前のため、正式施行日や確定版の有無を追跡します。 (次回週報まで継続監視)</p>
+<h2>見送った理由</h2>
+<p>・ 欧州連合の官報公布案件（L 2026/90496） [製品関連性が限定的]: 現時点では製品・材料・包装・工程への直接影響が薄く、製造業横断の週次優先事項には置きません。<br>
+・ 米国のガイダンス案件 [時期尚早]: 方向性の把握は必要ですが、直近で運用変更を要する段階ではないため監視継続に留めます。<br>
+・ 米国のガイダンス案件 [時期尚早]: 方向性の把握は必要ですが、直近で運用変更を要する段階ではないため監視継続に留めます。</p>
+<h2>次回までの確認</h2>
+<p>・ 高頻度テーマ (PFAS / REACH / RoHS / 包装・EPR) の次回更新有無を週次で確認する。<br>
+・ 欧州連合の官報公布案件（L 2026/90496） について、次回月次レビューで再確認。</p>
+<h2>関連しうる担当</h2>
+<p>・ 環境法規制</p>
+<!-- paywall -->
+
+<p><em>— ここから先は Substack 購読者限定の内容です —</em></p>
+<hr>
+<blockquote>
+<p><strong>今週の対応判断ブリーフ PDF（3件 / 全4ページ）</strong></p>
+<p>注目 3件それぞれについて、対象部材・想定担当者・今週やることを<br>
+1ページにまとめました。社内会議や、サプライヤーへの初回問い合わせに<br>
+そのまま使える粒度です。</p>
+<p><a href="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W25/reader_action_brief_2026-W25.pdf">reader_action_brief_2026-W25.pdf をダウンロード</a></p>
+</blockquote>
+<hr>
+<h3>事業者 impact 詳細マトリクス</h3>
+<p>今週の規制トピックを、社内製品カタログ (config/product_matrix.yaml) と突き合わせて、影響範囲・確認部材・必要証明書を 1 枚で示します。</p>
+<p><em>今週は分類済みの規制トピックがありません。</em></p>
+<h3>過去 4 週 citation 検証 deep dive</h3>
+<p>各規制トピックで LLM が生成した citation を、HTTP probe と sha256 照合 (documents.latest_hash) の 2 段で検証しています。本セクションには直近 build の全結果を載せ、根拠の信頼性を可視化します。</p>
+<table>
+<thead>
+<tr>
+<th>Event</th>
+<th>検証結果</th>
+<th>ホスト</th>
+<th>sha8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>137c196ab74238fb</td>
+<td>rejected</td>
+<td>www.epa.gov</td>
+<td>59b4897f</td>
+</tr>
+<tr>
+<td>9132638c8fea8587</td>
+<td>rejected</td>
+<td>laws.e-gov.go.jp</td>
+<td>e3b0c442</td>
+</tr>
+<tr>
+<td>c4f1eaedbb7991ef</td>
+<td>rejected</td>
+<td>laws.e-gov.go.jp</td>
+<td>e3b0c442</td>
+</tr>
+</tbody>
+</table>
+<h3>Decision card 拡張版</h3>
+<p><strong>確認する</strong> — 担当: 製品環境管理部門 / 期限: 2026-06-26<br>
+- 信頼度: medium; 根拠 sha8: <code>59b4897f</code><br>
+- サプライヤーへの初問: 対象製品が今回の規制スコープに該当するか、原文の定義に沿って確認をお願いします。<br>
+- 過剰反応の防止: 対象物質を自社製品およびプロセスで使用していない場合<br>
+- Event: <code>137c196ab74238fb</code></p>
+<p><strong>監視する</strong> — 担当: 製品開発部門 / 期限: 2026-06-19<br>
+- 信頼度: high; 根拠 sha8: <code>e3b0c442</code><br>
+- サプライヤーへの初問: 製品包装におけるプラスチック重量の削減目標は達成可能か<br>
+- 過剰反応の防止: プラスチックを一切使用しない製品および包装材のみを扱う場合<br>
+- Event: <code>c4f1eaedbb7991ef</code></p>
+<p><strong>監視する</strong> — 担当: 設計開発部門 / 期限: 2026-06-19<br>
+- 信頼度: high; 根拠 sha8: <code>e3b0c442</code><br>
+- サプライヤーへの初問: 包装設計は新基準のリサイクル適合性要件を満たしているか<br>
+- 過剰反応の防止: 資源有効利用促進法の対象外となる特定製品群以外の場合<br>
+- Event: <code>9132638c8fea8587</code></p>]]></content:encoded>
+      <guid isPermaLink="true">https://makionakatsu.github.io/env-reg-report-public/posts/2026-W25.html</guid>
+      <enclosure url="https://makionakatsu.github.io/env-reg-report-public/pdfs/2026-W25/reader_action_brief_2026-W25.pdf" length="2623564" type="application/pdf"/>
+      <pubDate>Sun, 14 Jun 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
